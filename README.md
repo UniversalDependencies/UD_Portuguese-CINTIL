@@ -47,10 +47,10 @@ Other relevant references are:
 Data available since: UD v2.11
 License: CC BY-NC-ND 4.0
 Includes text: yes
-Genre: news fiction
-Lemmas: automatic with corrections
+Genre: news fiction nonfiction grammar-examples
+Lemmas: converted from manual
 UPOS: converted from manual
-XPOS: automatic with corrections
+XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
 Contributors: Silva, João Ricardo
