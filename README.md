@@ -19,6 +19,8 @@ For more details, refer to (Branco _et al._, 2022), the canonical reference give
 
 This work was partly supported by [PORTULAN CLARIN Research Infrastructure for the Science and Technology of Language](https://portulanclarin.net), funded by Lisboa 2020, Alentejo 2020, and FCT-Fundação para a Ciência e Tecnologia under the grant PINFRA/22117/2016; by FCT-Fundação para a Ciência e Tecnologia through the Portuguese project DP4LT (PTDC/EEI-SII/1940/2012); and by the European Commission through the European project QTLeap (EC/FP7/610516).
 
+Several people have contributed to the creation of this treebank, from devising annotation guidelines and developing supporting tools, to manually annotating the text and data curation: Andreia Querido, António Branco, Catarina Carvalheiro, Clara Pinto, Cláudia Martins, Francisco Costa, Joana Ramos, João Silva, Mariana Avelãs, Marisa Campos, Rita Carvalho, Rita Pereira, Sara Silveira, Sérgio Castro, and Sílvia Pereira.
+
 # References
 
 CINTIL-UDep is described in the following article
@@ -38,6 +40,8 @@ Other relevant references are:
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Fixes for the representation of tokenized forms.
 * 2022-11-15 v2.11
   * Initial release in Universal Dependencies.
 
@@ -53,7 +57,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Silva, João Ricardo
+Contributors: Avelãs, Mariana; Branco, António; Campos, Marisa; Carvalheiro, Catarina; Carvalho, Rita; Castro, Sérgio; Costa, Francisco; Martins, Cláudia; Pereira, Rita; Pereira, Sílvia; Pinto, Clara; Querido, Andreia; Ramos, Joana; Silva, João; Silveira, Sara
 Contributing: elsewhere
 Contact: jrsilva@fc.ul.pt
 ===============================================================================
