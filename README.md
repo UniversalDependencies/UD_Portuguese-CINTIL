@@ -40,7 +40,7 @@ Other relevant references are:
 
 # Changelog
 
-* 2023-05-15 v2.12
+* 2022-12-30 v2.12
   * Fixes for the representation of tokenized forms.
 * 2022-11-15 v2.11
   * Initial release in Universal Dependencies.
