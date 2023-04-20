@@ -40,7 +40,9 @@ Other relevant references are:
 
 # Changelog
 
-* 2022-12-30 v2.12
+* 2023-04-20 v2.12
+  * Value Cmp not allowed for feature Degree.
+* 2022-12-30
   * Fixes for the representation of tokenized forms.
 * 2022-11-15 v2.11
   * Initial release in Universal Dependencies.
