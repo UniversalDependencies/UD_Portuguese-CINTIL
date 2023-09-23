@@ -25,7 +25,7 @@ Several people have contributed to the creation of this treebank, from devising 
 
 CINTIL-UDep is described in the following article
 
-* Branco, António, João Ricardo Silva, Luís Gomes, and João Rodrigues, 2022. Universal Grammatical Dependencies for Portuguese with CINTIL Data, LX Processing and CLARIN support. In _Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)_.
+* Branco, António, João Ricardo Silva, Luís Gomes, and João Rodrigues, 2022. [Universal Grammatical Dependencies for Portuguese with CINTIL Data, LX Processing and CLARIN support](https://aclanthology.org/2022.lrec-1.603/). In _Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)_.
 
 which should be used as its canonical citation, and which interested users are referred to for detailed information.
 
