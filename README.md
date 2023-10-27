@@ -40,6 +40,8 @@ Other relevant references are:
 
 # Changelog
 
+* 2023-10-27 v2.13
+  * fixed should not be used for proper nouns.
 * 2023-04-20 v2.12
   * Value Cmp not allowed for feature Degree.
 * 2022-12-30
