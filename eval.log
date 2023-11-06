@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Portuguese-CINTIL:
-commit cc04cfe6a3b9df0d3016b50c69010827c1c8d208
-Merge: d6386b7 1ee6660
+commit 82c06d15d13d4b9746728b1d5f3ce95dba604b2a
+Merge: da5bfa3 5ee7a84
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 475860 of 475860 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.3302473866466.
