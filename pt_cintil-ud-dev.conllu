@@ -275,8 +275,8 @@
 6	semana	semana	NOUN	CN	Gender=Fem|Number=Sing	3	obl	_	_
 7	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	índice	índice	NOUN	CN	Gender=Masc|Number=Sing	11	nsubj	_	_
-9	Dow	dow	PROPN	PNM	_	8	fixed	_	_
-10	Jones	jones	PROPN	PNM	_	8	fixed	_	_
+9	Dow	dow	PROPN	PNM	_	8	flat	_	_
+10	Jones	jones	PROPN	PNM	_	8	flat	_	_
 11-12	estabeleceu-se	_	_	_	_	_	_	_	_
 11	estabeleceu	estabelecer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	-se	-se	PRON	CL	Person=3|PronType=Prs	11	obj	_	_
@@ -593,8 +593,8 @@
 8	,	,	PUNCT	PNT	_	4	punct	_	_
 9	um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	13	nsubj	_	_
-11	de	de	ADP	PREP	_	10	fixed	_	_
-12	Taiwan	taiwan	PROPN	PNM	_	10	fixed	_	_
+11	de	de	ADP	PREP	_	10	flat	_	_
+12	Taiwan	taiwan	PROPN	PNM	_	10	flat	_	_
 13	chega	chegar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	hoje	hoje	ADV	ADV	_	13	advmod	_	_
 15-16	aos	_	_	_	_	_	_	_	_
@@ -1276,8 +1276,8 @@
 13	desde	desde	ADP	PREP	_	15	case	_	_
 14	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	II	ii	NUM	DGTR	NumType=Card	9	obl	_	_
-16	Guerra	guerra	PROPN	PNM	_	15	fixed	_	_
-17	Mundial	mundial	PROPN	PNM	_	15	fixed	_	_
+16	Guerra	guerra	PROPN	PNM	_	15	flat	_	_
+17	Mundial	mundial	PROPN	PNM	_	15	flat	_	_
 18	,	,	PUNCT	PNT	_	2	punct	_	_
 19-20	desfez-se	_	_	_	_	_	_	_	_
 19	desfez	desfazer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -4003,13 +4003,13 @@
 8	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	capela	capela	NOUN	CN	Gender=Fem|Number=Sing	3	obl	_	_
 10-11	da	_	_	_	_	_	_	_	_
-10	de_	de_	ADP	PREP	_	9	fixed	_	_
-11	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	fixed	_	_
-12	Ponte	ponte	PROPN	PNM	_	9	fixed	_	_
+10	de_	de_	ADP	PREP	_	9	flat	_	_
+11	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	flat	_	_
+12	Ponte	ponte	PROPN	PNM	_	9	flat	_	_
 13-14	da	_	_	_	_	_	_	_	_
-13	de_	de_	ADP	PREP	_	9	fixed	_	_
-14	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	fixed	_	_
-15	Ajuda	ajuda	PROPN	PNM	_	9	fixed	_	_
+13	de_	de_	ADP	PREP	_	9	flat	_	_
+14	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	flat	_	_
+15	Ajuda	ajuda	PROPN	PNM	_	9	flat	_	_
 16	,	,	PUNCT	PNT	_	18	punct	_	_
 17	que	que	PRON	REL	PronType=Rel	18	nsubj	_	_
 18	estabelecia	estabelecer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	amod	_	_
@@ -5441,9 +5441,9 @@
 6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	Avenida	avenida	NOUN	PADR	Gender=Fem|Number=Sing	4	obl	_	_
 8-9	da	_	_	_	_	_	_	_	_
-8	de_	de_	ADP	PREP	_	7	fixed	_	_
-9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	fixed	_	_
-10	Liberdade	liberdade	PROPN	PNM	_	7	fixed	_	_
+8	de_	de_	ADP	PREP	_	7	flat	_	_
+9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	flat	_	_
+10	Liberdade	liberdade	PROPN	PNM	_	7	flat	_	_
 11	.	.	PUNCT	PNT	_	4	punct	_	_
 
 # sent_id = 31085
@@ -5681,8 +5681,8 @@
 18	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 19	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	director	director	NOUN	CN	Gender=Masc|Number=Sing	18	nsubj	_	_
-21	de	de	ADP	PREP	_	20	fixed	_	_
-22	Saúde	saúde	PROPN	PNM	_	20	fixed	_	_
+21	de	de	ADP	PREP	_	20	flat	_	_
+22	Saúde	saúde	PROPN	PNM	_	20	flat	_	_
 23	.	.	PUNCT	PNT	_	18	punct	_	_
 
 # sent_id = 31099
@@ -5885,11 +5885,11 @@
 8	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	director	director	NOUN	CN	Gender=Masc|Number=Sing	3	nsubj	_	_
 10-11	da	_	_	_	_	_	_	_	_
-10	de_	de_	ADP	PREP	_	9	fixed	_	_
-11	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	fixed	_	_
-12	Royal	royal	PROPN	PNM	_	9	fixed	_	_
-13	Shakespeare	shakespeare	PROPN	PNM	_	9	fixed	_	_
-14	Company	company	PROPN	PNM	_	9	fixed	_	_
+10	de_	de_	ADP	PREP	_	9	flat	_	_
+11	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	flat	_	_
+12	Royal	royal	PROPN	PNM	_	9	flat	_	_
+13	Shakespeare	shakespeare	PROPN	PNM	_	9	flat	_	_
+14	Company	company	PROPN	PNM	_	9	flat	_	_
 15	.	.	PUNCT	PNT	_	3	punct	_	_
 
 # sent_id = 31113
@@ -5960,9 +5960,9 @@
 # text = Vereador da Cultura demite-se em Matosinhos
 1	Vereador	vereador	NOUN	CN	Gender=Masc|Number=Sing	5	nsubj	_	_
 2-3	da	_	_	_	_	_	_	_	_
-2	de_	de_	ADP	PREP	_	1	fixed	_	_
-3	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	fixed	_	_
-4	Cultura	cultura	PROPN	PNM	_	1	fixed	_	_
+2	de_	de_	ADP	PREP	_	1	flat	_	_
+3	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	flat	_	_
+4	Cultura	cultura	PROPN	PNM	_	1	flat	_	_
 5-6	demite-se	_	_	_	_	_	_	_	_
 5	demite	demitir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	-se	-se	PRON	CL	Person=3|PronType=Prs	5	obj	_	_
@@ -6199,11 +6199,11 @@
 4	lança	lançar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	'	'	PUNCT	PNT	_	6	punct	_	_
 6	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	obj	_	_
-7	Comum	comum	PROPN	PNM	_	6	fixed	_	_
+7	Comum	comum	PROPN	PNM	_	6	flat	_	_
 8-9	da	_	_	_	_	_	_	_	_
-8	de_	de_	ADP	PREP	_	6	fixed	_	_
-9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	fixed	_	_
-10	Terra	terra	PROPN	PNM	_	6	fixed	_	_
+8	de_	de_	ADP	PREP	_	6	flat	_	_
+9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	flat	_	_
+10	Terra	terra	PROPN	PNM	_	6	flat	_	_
 11	'	'	PUNCT	PNT	_	6	punct	_	_
 
 # sent_id = 31137
@@ -6423,8 +6423,8 @@
 # sent_id = 31150
 # text = São José Almeida e Pedro Garcias
 1	São	são	NOUN	STT	Gender=Masc|Number=Sing	0	root	_	_
-2	José	josé	PROPN	PNM	_	1	fixed	_	_
-3	Almeida	almeida	PROPN	PNM	_	1	fixed	_	_
+2	José	josé	PROPN	PNM	_	1	flat	_	_
+3	Almeida	almeida	PROPN	PNM	_	1	flat	_	_
 4	e	e	CCONJ	CJ	_	5	cc	_	_
 5	Pedro	pedro	PROPN	PNM	_	1	conj	_	_
 6	Garcias	garcias	PROPN	PNM	_	5	dep	_	_
@@ -6657,9 +6657,9 @@
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	ministro	ministro	NOUN	CN	Gender=Masc|Number=Sing	6	nsubj	_	_
 3-4	das	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	fixed	_	_
-5	Finanças	finanças	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	flat	_	_
+5	Finanças	finanças	PROPN	PNM	_	2	flat	_	_
 6	tinha	ter	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
 7	sido	ser	AUX	PPT	VerbForm=Part	8	cop	_	_
 8	contactado	contactar,contactado	VERB	PPA	Gender=Masc|Number=Sing|VerbForm=Part	6	dep	_	_
@@ -6691,11 +6691,11 @@
 # text = ' O Auto da Índia ' , de Gil Vicente , ' As Irmãs Travesseiro ' , de Joaquim Nicolau , e ' Hamlet ' , de Shakespeare .
 1	'	'	PUNCT	PNT	_	2	punct	_	_
 2	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	root	_	_
-3	Auto	auto	PROPN	PNM	_	2	fixed	_	_
+3	Auto	auto	PROPN	PNM	_	2	flat	_	_
 4-5	da	_	_	_	_	_	_	_	_
-4	de_	de_	ADP	PREP	_	2	fixed	_	_
-5	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-6	Índia	índia	PROPN	PNM	_	2	fixed	_	_
+4	de_	de_	ADP	PREP	_	2	flat	_	_
+5	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+6	Índia	índia	PROPN	PNM	_	2	flat	_	_
 7	'	'	PUNCT	PNT	_	2	punct	_	_
 8	,	,	PUNCT	PNT	_	2	punct	_	_
 9	de	de	ADP	PREP	_	10	case	_	_
@@ -6704,8 +6704,8 @@
 12	,	,	PUNCT	PNT	_	2	punct	_	_
 13	'	'	PUNCT	PNT	_	14	punct	_	_
 14	As	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	conj	_	_
-15	Irmãs	irmãs	PROPN	PNM	_	14	fixed	_	_
-16	Travesseiro	travesseiro	PROPN	PNM	_	14	fixed	_	_
+15	Irmãs	irmãs	PROPN	PNM	_	14	flat	_	_
+16	Travesseiro	travesseiro	PROPN	PNM	_	14	flat	_	_
 17	'	'	PUNCT	PNT	_	14	punct	_	_
 18	,	,	PUNCT	PNT	_	14	punct	_	_
 19	de	de	ADP	PREP	_	20	case	_	_
@@ -7826,8 +7826,8 @@
 4	para	para	ADP	PREP	_	6	case	_	_
 5	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Rua	rua	NOUN	PADR	Gender=Fem|Number=Sing	3	amod	_	_
-7	de	de	ADP	PREP	_	6	fixed	_	_
-8	Brito	brito	PROPN	PNM	_	6	fixed	_	_
+7	de	de	ADP	PREP	_	6	flat	_	_
+8	Brito	brito	PROPN	PNM	_	6	flat	_	_
 9	Capelo	capelo	PROPN	PNM	_	6	dep	_	_
 
 # sent_id = 31239
@@ -8740,11 +8740,11 @@
 3	em_	em_	ADP	PREP	_	5	case	_	_
 4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Hospital	hospital	PROPN	PNM	_	2	obl	_	_
-6	de	de	ADP	PREP	_	5	fixed	_	_
-7	Vila	vila	PROPN	PNM	_	5	fixed	_	_
-8	Franca	franca	PROPN	PNM	_	5	fixed	_	_
-9	de	de	ADP	PREP	_	5	fixed	_	_
-10	Xira	xira	PROPN	PNM	_	5	fixed	_	_
+6	de	de	ADP	PREP	_	5	flat	_	_
+7	Vila	vila	PROPN	PNM	_	5	flat	_	_
+8	Franca	franca	PROPN	PNM	_	5	flat	_	_
+9	de	de	ADP	PREP	_	5	flat	_	_
+10	Xira	xira	PROPN	PNM	_	5	flat	_	_
 11	,	,	PUNCT	PNT	_	2	punct	_	_
 12	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	baleado	balear,baleado	VERB	PPA	Gender=Masc|Number=Sing|VerbForm=Part	17	nsubj	_	_
@@ -8839,9 +8839,9 @@
 3	,	,	PUNCT	PNT	_	1	punct	_	_
 4	administrador-delegado	administrador-delegado	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 5-6	da	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	4	fixed	_	_
-6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	_
-7	Juventus	juventus	PROPN	PNM	_	4	fixed	_	_
+5	de_	de_	ADP	PREP	_	4	flat	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat	_	_
+7	Juventus	juventus	PROPN	PNM	_	4	flat	_	_
 8	,	,	PUNCT	PNT	_	1	punct	_	_
 9	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	ainda	ainda	ADV	ADV	_	9	advmod	_	_
@@ -9002,8 +9002,8 @@
 2	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 3	respectiva	respectivo	ADJ	ADJ	Gender=Fem|Number=Sing	4	amod	_	_
 4	secretaria	secretaria	NOUN	CN	Gender=Fem|Number=Sing	0	root	_	_
-5	de	de	ADP	PREP	_	4	fixed	_	_
-6	Estado	estado	PROPN	PNM	_	4	fixed	_	_
+5	de	de	ADP	PREP	_	4	flat	_	_
+6	Estado	estado	PROPN	PNM	_	4	flat	_	_
 7	continua	continuar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	dep	_	_
 8	Arons	arons	PROPN	PNM	_	4	nsubj	_	_
 9	de	de	ADP	PREP	_	8	flat	_	_
@@ -9720,13 +9720,13 @@
 4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 6-7	da	_	_	_	_	_	_	_	_
-6	de_	de_	ADP	PREP	_	5	fixed	_	_
-7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	fixed	_	_
-8	Junta	junta	PROPN	PNM	_	5	fixed	_	_
+6	de_	de_	ADP	PREP	_	5	flat	_	_
+7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	flat	_	_
+8	Junta	junta	PROPN	PNM	_	5	flat	_	_
 9-10	da	_	_	_	_	_	_	_	_
-9	de_	de_	ADP	PREP	_	5	fixed	_	_
-10	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	fixed	_	_
-11	Galiza	galiza	PROPN	PNM	_	5	fixed	_	_
+9	de_	de_	ADP	PREP	_	5	flat	_	_
+10	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	flat	_	_
+11	Galiza	galiza	PROPN	PNM	_	5	flat	_	_
 12	,	,	PUNCT	PNT	_	1	punct	_	_
 13	e	e	CCONJ	CJ	_	14	cc	_	_
 14	Carlos	carlos	PROPN	PNM	_	1	conj	_	_
@@ -9822,7 +9822,7 @@
 4	por_	por_	ADP	PREP	_	6	case	_	_
 5	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	agência	agência	NOUN	CN	Gender=Fem|Number=Sing	3	obl	_	_
-7	Lusa	lusa	PROPN	PNM	_	6	fixed	_	_
+7	Lusa	lusa	PROPN	PNM	_	6	flat	_	_
 8	,	,	PUNCT	PNT	_	2	punct	_	_
 9	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	incêndio	incêndio	NOUN	CN	Gender=Masc|Number=Sing	11	nsubj	_	_
@@ -11534,10 +11534,10 @@
 7	a_	a_	ADP	PREP	_	9	case	_	_
 8	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Bolsa	bolsa	PROPN	PNM	_	4	obl	_	_
-10	de	de	ADP	PREP	_	9	fixed	_	_
-11	Valores	valores	PROPN	PNM	_	9	fixed	_	_
-12	de	de	ADP	PREP	_	9	fixed	_	_
-13	Lisboa	lisboa	PROPN	PNM	_	9	fixed	_	_
+10	de	de	ADP	PREP	_	9	flat	_	_
+11	Valores	valores	PROPN	PNM	_	9	flat	_	_
+12	de	de	ADP	PREP	_	9	flat	_	_
+13	Lisboa	lisboa	PROPN	PNM	_	9	flat	_	_
 14	.	.	PUNCT	PNT	_	3	punct	_	_
 
 # sent_id = 31485
@@ -11561,11 +11561,11 @@
 # text = ' O Cavalo do Orgulho ' é um filme singular na carreira de Claude Chabrol .
 1	'	'	PUNCT	PNT	_	2	punct	_	_
 2	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nsubj	_	_
-3	Cavalo	cavalo	PROPN	PNM	_	2	fixed	_	_
+3	Cavalo	cavalo	PROPN	PNM	_	2	flat	_	_
 4-5	do	_	_	_	_	_	_	_	_
-4	de_	de_	ADP	PREP	_	2	fixed	_	_
-5	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	fixed	_	_
-6	Orgulho	orgulho	PROPN	PNM	_	2	fixed	_	_
+4	de_	de_	ADP	PREP	_	2	flat	_	_
+5	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	flat	_	_
+6	Orgulho	orgulho	PROPN	PNM	_	2	flat	_	_
 7	'	'	PUNCT	PNT	_	2	punct	_	_
 8	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -11853,12 +11853,12 @@
 # text = Presidente do Movimento de Trabalhadores Cristãos na defesa de um ' mundo novo '
 1	Presidente	presidente	NOUN	STT	Gender=Masc|Number=Sing	10	nsubj	_	_
 2-3	do	_	_	_	_	_	_	_	_
-2	de_	de_	ADP	PREP	_	1	fixed	_	_
-3	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
-4	Movimento	movimento	PROPN	PNM	_	1	fixed	_	_
-5	de	de	ADP	PREP	_	1	fixed	_	_
-6	Trabalhadores	trabalhadores	PROPN	PNM	_	1	fixed	_	_
-7	Cristãos	cristãos	PROPN	PNM	_	1	fixed	_	_
+2	de_	de_	ADP	PREP	_	1	flat	_	_
+3	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat	_	_
+4	Movimento	movimento	PROPN	PNM	_	1	flat	_	_
+5	de	de	ADP	PREP	_	1	flat	_	_
+6	Trabalhadores	trabalhadores	PROPN	PNM	_	1	flat	_	_
+7	Cristãos	cristãos	PROPN	PNM	_	1	flat	_	_
 8-9	na	_	_	_	_	_	_	_	_
 8	em_	em_	ADP	PREP	_	10	case	_	_
 9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -11955,9 +11955,9 @@
 2	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	14	obl	_	_
 4-5	da	_	_	_	_	_	_	_	_
-4	de_	de_	ADP	PREP	_	3	fixed	_	_
-5	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	fixed	_	_
-6	Câmara	câmara	PROPN	PNM	_	3	fixed	_	_
+4	de_	de_	ADP	PREP	_	3	flat	_	_
+5	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	flat	_	_
+6	Câmara	câmara	PROPN	PNM	_	3	flat	_	_
 7	,	,	PUNCT	PNT	_	3	punct	_	_
 8	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
 9	preocupações	preocupação	NOUN	CN	Gender=Fem|Number=Plur	14	nsubj	_	_
@@ -12439,7 +12439,7 @@
 # text = ' Beach Music ' e outro sem título .
 1	'	'	PUNCT	PNT	_	2	punct	_	_
 2	Beach	beach	NOUN	CN	_	0	root	_	_
-3	Music	music	PROPN	PNM	_	2	fixed	_	_
+3	Music	music	PROPN	PNM	_	2	flat	_	_
 4	'	'	PUNCT	PNT	_	2	punct	_	_
 5	e	e	CCONJ	CJ	_	8	cc	_	_
 6	outro	outro	ADJ	ADJ	Gender=Masc|Number=Sing	8	amod	_	_
@@ -12927,8 +12927,8 @@
 3	escultura	escultura	NOUN	CN	Gender=Fem|Number=Sing	1	conj	_	_
 4	de	de	ADP	PREP	_	5	case	_	_
 5	Graciete	graciete	PROPN	PNM	_	1	obl	_	_
-6	Rosa	rosa	PROPN	PNM	_	5	fixed	_	_
-7	Rosa	rosa	PROPN	PNM	_	5	fixed	_	_
+6	Rosa	rosa	PROPN	PNM	_	5	flat	_	_
+7	Rosa	rosa	PROPN	PNM	_	5	flat	_	_
 8	em	em	ADP	PREP	_	9	case	_	_
 9	exposição	exposição	NOUN	CN	Gender=Fem|Number=Sing	0	root	_	_
 10-11	no	_	_	_	_	_	_	_	_
@@ -13332,15 +13332,15 @@
 7	em_	em_	ADP	PREP	_	9	case	_	_
 8	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Grande	grande	PROPN	PNM	_	6	obl	_	_
-10	Hotel	hotel	PROPN	PNM	_	9	fixed	_	_
+10	Hotel	hotel	PROPN	PNM	_	9	flat	_	_
 11-12	das	_	_	_	_	_	_	_	_
-11	de_	de_	ADP	PREP	_	9	fixed	_	_
-12	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	fixed	_	_
-13	Termas	termas	PROPN	PNM	_	9	fixed	_	_
+11	de_	de_	ADP	PREP	_	9	flat	_	_
+12	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	flat	_	_
+13	Termas	termas	PROPN	PNM	_	9	flat	_	_
 14-15	do	_	_	_	_	_	_	_	_
-14	de_	de_	ADP	PREP	_	9	fixed	_	_
-15	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	fixed	_	_
-16	Luso	luso	PROPN	PNM	_	9	fixed	_	_
+14	de_	de_	ADP	PREP	_	9	flat	_	_
+15	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	flat	_	_
+16	Luso	luso	PROPN	PNM	_	9	flat	_	_
 17	.	.	PUNCT	PNT	_	4	punct	_	_
 
 # sent_id = 31607
@@ -15004,18 +15004,18 @@
 15	em_	em_	ADP	PREP	_	17	case	_	_
 16	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	Faculdade	faculdade	PROPN	PNM	_	5	parataxis	_	_
-18	de	de	ADP	PREP	_	17	fixed	_	_
-19	Ciências	ciências	PROPN	PNM	_	17	fixed	_	_
-20	Sociais	sociais	PROPN	PNM	_	17	fixed	_	_
-21	e	e	CCONJ	CJ	_	17	fixed	_	_
-22	Humanas	humanas	PROPN	PNM	_	17	fixed	_	_
+18	de	de	ADP	PREP	_	17	flat	_	_
+19	Ciências	ciências	PROPN	PNM	_	17	flat	_	_
+20	Sociais	sociais	PROPN	PNM	_	17	flat	_	_
+21	e	e	CCONJ	CJ	_	17	flat	_	_
+22	Humanas	humanas	PROPN	PNM	_	17	flat	_	_
 23-24	da	_	_	_	_	_	_	_	_
-23	de_	de_	ADP	PREP	_	17	fixed	_	_
-24	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	fixed	_	_
-25	Universidade	universidade	PROPN	PNM	_	17	fixed	_	_
-26	Nova	nova	PROPN	PNM	_	17	fixed	_	_
-27	de	de	ADP	PREP	_	17	fixed	_	_
-28	Lisboa	lisboa	PROPN	PNM	_	17	fixed	_	_
+23	de_	de_	ADP	PREP	_	17	flat	_	_
+24	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	flat	_	_
+25	Universidade	universidade	PROPN	PNM	_	17	flat	_	_
+26	Nova	nova	PROPN	PNM	_	17	flat	_	_
+27	de	de	ADP	PREP	_	17	flat	_	_
+28	Lisboa	lisboa	PROPN	PNM	_	17	flat	_	_
 29	e	e	CCONJ	CJ	_	32	cc	_	_
 30-31	no	_	_	_	_	_	_	_	_
 30	em_	em_	ADP	PREP	_	32	case	_	_
@@ -16084,7 +16084,7 @@
 1	'	'	PUNCT	PNT	_	5	punct	_	_
 2	Magic	magic	PROPN	PNM	_	5	nsubj	_	_
 3	'	'	PUNCT	PNT	_	2	punct	_	_
-4	Johnson	johnson	PROPN	PNM	_	2	fixed	_	_
+4	Johnson	johnson	PROPN	PNM	_	2	flat	_	_
 5	dá	dar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	aula	aula	NOUN	CN	Gender=Fem|Number=Sing	5	obj	_	_
 7-8	no	_	_	_	_	_	_	_	_
@@ -16352,11 +16352,11 @@
 10	e	e	CCONJ	CJ	_	12	cc	_	_
 11	'	'	PUNCT	PNT	_	12	punct	_	_
 12	As	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	conj	_	_
-13	Neves	neves	PROPN	PNM	_	12	fixed	_	_
+13	Neves	neves	PROPN	PNM	_	12	flat	_	_
 14-15	do	_	_	_	_	_	_	_	_
-14	de_	de_	ADP	PREP	_	12	fixed	_	_
-15	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	fixed	_	_
-16	Kilimanjaro	kilimanjaro	PROPN	PNM	_	12	fixed	_	_
+14	de_	de_	ADP	PREP	_	12	flat	_	_
+15	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	flat	_	_
+16	Kilimanjaro	kilimanjaro	PROPN	PNM	_	12	flat	_	_
 17	'	'	PUNCT	PNT	_	12	punct	_	_
 18	.	.	PUNCT	PNT	_	2	punct	_	_
 
@@ -16469,13 +16469,13 @@
 8	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Secretaria	secretaria	PROPN	PNM	_	2	parataxis	_	_
 10-11	do	_	_	_	_	_	_	_	_
-10	de_	de_	ADP	PREP	_	9	fixed	_	_
-11	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	fixed	_	_
-12	Estado	estado	PROPN	PNM	_	9	fixed	_	_
+10	de_	de_	ADP	PREP	_	9	flat	_	_
+11	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	flat	_	_
+12	Estado	estado	PROPN	PNM	_	9	flat	_	_
 13-14	da	_	_	_	_	_	_	_	_
-13	de_	de_	ADP	PREP	_	9	fixed	_	_
-14	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	fixed	_	_
-15	Cultura	cultura	PROPN	PNM	_	9	fixed	_	_
+13	de_	de_	ADP	PREP	_	9	flat	_	_
+14	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	flat	_	_
+15	Cultura	cultura	PROPN	PNM	_	9	flat	_	_
 16	,	,	PUNCT	PNT	_	2	punct	_	_
 17	Fundação	fundação	PROPN	PNM	_	2	conj	_	_
 18	Gulbenkian	gulbenkian	PROPN	PNM	_	17	flat	_	_
@@ -17081,11 +17081,11 @@
 7	empresa	empresa	NOUN	CN	Gender=Fem|Number=Sing	14	nsubj	_	_
 8	Águas	águo	NOUN	CN	Gender=Fem|Number=Plur	7	obl	_	_
 9-10	do	_	_	_	_	_	_	_	_
-9	de_	de_	ADP	PREP	_	8	fixed	_	_
-10	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	fixed	_	_
-11	Douro	douro	PROPN	PNM	_	8	fixed	_	_
-12	e	e	CCONJ	CJ	_	8	fixed	_	_
-13	Paiva	paiva	PROPN	PNM	_	8	fixed	_	_
+9	de_	de_	ADP	PREP	_	8	flat	_	_
+10	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	flat	_	_
+11	Douro	douro	PROPN	PNM	_	8	flat	_	_
+12	e	e	CCONJ	CJ	_	8	flat	_	_
+13	Paiva	paiva	PROPN	PNM	_	8	flat	_	_
 14	deverá	dever	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 15	assumir	assumir	VERB	INF	VerbForm=Inf	14	xcomp	_	_
 16	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -18130,9 +18130,9 @@
 6	em_	em_	ADP	PREP	_	8	case	_	_
 7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	festa	festa	NOUN	CN	Gender=Fem|Number=Sing	4	obl	_	_
-9	de	de	ADP	PREP	_	8	fixed	_	_
-10	Sant	sant	PROPN	PNM	_	8	fixed	_	_
-11	Jordi	jordi	PROPN	PNM	_	8	fixed	_	_
+9	de	de	ADP	PREP	_	8	flat	_	_
+10	Sant	sant	PROPN	PNM	_	8	flat	_	_
+11	Jordi	jordi	PROPN	PNM	_	8	flat	_	_
 12	:	:	PUNCT	PNT	_	4	punct	_	_
 
 # sent_id = 31926
@@ -19266,9 +19266,9 @@
 2	em_	em_	ADP	PREP	_	4	case	_	_
 3	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	Faculdade	faculdade	PROPN	PNM	_	1	obl	_	_
-5	de	de	ADP	PREP	_	4	fixed	_	_
-6	Direito	direito	PROPN	PNM	_	4	fixed	_	_
-7	de	de	ADP	PREP	_	4	fixed	_	_
+5	de	de	ADP	PREP	_	4	flat	_	_
+6	Direito	direito	PROPN	PNM	_	4	flat	_	_
+7	de	de	ADP	PREP	_	4	flat	_	_
 8	Lisboa	lisboa	PROPN	PNM	_	4	dep	_	_
 
 # sent_id = 32009
@@ -19951,9 +19951,9 @@
 16	de_	de_	ADP	PREP	_	18	case	_	_
 17	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	II	ii	NUM	DGTR	NumType=Card	15	obl	_	_
-19	Divisão	divisão	PROPN	PNM	_	18	fixed	_	_
-20	de	de	ADP	PREP	_	18	fixed	_	_
-21	Honra	honra	PROPN	PNM	_	18	fixed	_	_
+19	Divisão	divisão	PROPN	PNM	_	18	flat	_	_
+20	de	de	ADP	PREP	_	18	flat	_	_
+21	Honra	honra	PROPN	PNM	_	18	flat	_	_
 22	.	.	PUNCT	PNT	_	1	punct	_	_
 
 # sent_id = 32050
@@ -20286,7 +20286,7 @@
 11	não	não	ADV	ADV	_	12	advmod	_	_
 12	deixou	deixar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 13	São	são	NOUN	STT	Gender=Masc|Number=Sing	12	obj	_	_
-14	Bento	bento	PROPN	PNM	_	13	fixed	_	_
+14	Bento	bento	PROPN	PNM	_	13	flat	_	_
 15	.	.	PUNCT	PNT	_	4	punct	_	_
 
 # sent_id = 32072
@@ -20682,9 +20682,9 @@
 17	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_
 18	primeira-ministra	primeira-ministro	NOUN	CN	Gender=Fem|Number=Sing	12	dep	_	_
 19-20	da	_	_	_	_	_	_	_	_
-19	de_	de_	ADP	PREP	_	18	fixed	_	_
-20	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	fixed	_	_
-21	Grã-Bretanha	grã-bretanha	PROPN	PNM	_	18	fixed	_	_
+19	de_	de_	ADP	PREP	_	18	flat	_	_
+20	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	flat	_	_
+21	Grã-Bretanha	grã-bretanha	PROPN	PNM	_	18	flat	_	_
 22	.	.	PUNCT	PNT	_	4	punct	_	_
 
 # sent_id = 32101
@@ -21044,7 +21044,7 @@
 16	de	de	ADP	PREP	_	18	case	_	_
 17	'	'	PUNCT	PNT	_	18	punct	_	_
 18	General	general	NOUN	STT	Gender=Masc|Number=Sing	15	obl	_	_
-19	Hospital	hospital	PROPN	PNM	_	18	fixed	_	_
+19	Hospital	hospital	PROPN	PNM	_	18	flat	_	_
 20	'	'	PUNCT	PNT	_	18	punct	_	_
 21	.	.	PUNCT	PNT	_	1	punct	_	_
 
@@ -21155,7 +21155,7 @@
 # text = O índice Nikkei recuou 0,02 por cento .
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	índice	índice	NOUN	CN	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Nikkei	nikkei	PROPN	PNM	_	2	fixed	_	_
+3	Nikkei	nikkei	PROPN	PNM	_	2	flat	_	_
 4	recuou	recuar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	0,02	0,02	NUM	DGT	NumType=Card	4	obj	_	_
 6	por	por	ADP	LDFR1	_	5	dep	_	_
@@ -21355,11 +21355,11 @@
 # sent_id = 32144
 # text = Circuito de Vila do Conde
 1	Circuito	circuito	NOUN	CN	Gender=Masc|Number=Sing	0	root	_	_
-2	de	de	ADP	PREP	_	1	fixed	_	_
-3	Vila	vila	PROPN	PNM	_	1	fixed	_	_
+2	de	de	ADP	PREP	_	1	flat	_	_
+3	Vila	vila	PROPN	PNM	_	1	flat	_	_
 4-5	do	_	_	_	_	_	_	_	_
-4	de_	de_	ADP	PREP	_	1	fixed	_	_
-5	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
+4	de_	de_	ADP	PREP	_	1	flat	_	_
+5	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat	_	_
 6	Conde	conde	PROPN	PNM	_	1	dep	_	_
 
 # sent_id = 32145
@@ -21713,15 +21713,15 @@
 # text = O Instituto de Apoio ao Emigrante de Cabo Verde também colabora na iniciativa .
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Instituto	instituto	PROPN	PNM	_	12	nsubj	_	_
-3	de	de	ADP	PREP	_	2	fixed	_	_
-4	Apoio	apoio	PROPN	PNM	_	2	fixed	_	_
+3	de	de	ADP	PREP	_	2	flat	_	_
+4	Apoio	apoio	PROPN	PNM	_	2	flat	_	_
 5-6	ao	_	_	_	_	_	_	_	_
-5	a_	a_	ADP	PREP	_	2	fixed	_	_
-6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	fixed	_	_
-7	Emigrante	emigrante	PROPN	PNM	_	2	fixed	_	_
-8	de	de	ADP	PREP	_	2	fixed	_	_
-9	Cabo	cabo	PROPN	PNM	_	2	fixed	_	_
-10	Verde	verde	PROPN	PNM	_	2	fixed	_	_
+5	a_	a_	ADP	PREP	_	2	flat	_	_
+6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	flat	_	_
+7	Emigrante	emigrante	PROPN	PNM	_	2	flat	_	_
+8	de	de	ADP	PREP	_	2	flat	_	_
+9	Cabo	cabo	PROPN	PNM	_	2	flat	_	_
+10	Verde	verde	PROPN	PNM	_	2	flat	_	_
 11	também	também	ADV	ADV	_	12	advmod	_	_
 12	colabora	colaborar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13-14	na	_	_	_	_	_	_	_	_
@@ -21749,13 +21749,13 @@
 # text = Cimeira da Linha da Frente
 1	Cimeira	cimeira	PROPN	PNM	_	0	root	_	_
 2-3	da	_	_	_	_	_	_	_	_
-2	de_	de_	ADP	PREP	_	1	fixed	_	_
-3	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	fixed	_	_
-4	Linha	linha	PROPN	PNM	_	1	fixed	_	_
+2	de_	de_	ADP	PREP	_	1	flat	_	_
+3	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	flat	_	_
+4	Linha	linha	PROPN	PNM	_	1	flat	_	_
 5-6	da	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	1	fixed	_	_
-6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	fixed	_	_
-7	Frente	frente	PROPN	PNM	_	1	dep	_	_
+5	de_	de_	ADP	PREP	_	1	flat	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	1	flat	_	_
+7	Frente	frente	PROPN	PNM	_	1	flat	_	_
 
 # sent_id = 32168
 # text = Todo este processo tem as características de uma onda avassaladora .
@@ -21922,8 +21922,8 @@
 5	ultimato	ultimato	NOUN	CN	Gender=Masc|Number=Sing	4	obj	_	_
 6	a	a	ADP	PREP	_	7	case	_	_
 7	São	são	NOUN	STT	Gender=Masc|Number=Sing	4	obl	_	_
-8	Domingos	domingos	PROPN	PNM	_	7	fixed	_	_
-9	de	de	ADP	PREP	_	7	fixed	_	_
+8	Domingos	domingos	PROPN	PNM	_	7	flat	_	_
+9	de	de	ADP	PREP	_	7	flat	_	_
 10	Benfica	benfica	PROPN	PNM	_	7	dep	_	_
 
 # sent_id = 32178
@@ -22097,9 +22097,9 @@
 7	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	5	obl	_	_
 9-10	da	_	_	_	_	_	_	_	_
-9	de_	de_	ADP	PREP	_	8	fixed	_	_
-10	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	fixed	_	_
-11	Assembleia	assembleia	PROPN	PNM	_	8	fixed	_	_
+9	de_	de_	ADP	PREP	_	8	flat	_	_
+10	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	flat	_	_
+11	Assembleia	assembleia	PROPN	PNM	_	8	flat	_	_
 12	,	,	PUNCT	PNT	_	3	punct	_	_
 13	.	.	PUNCT	PNT	_	3	punct	_	_
 
@@ -23156,7 +23156,7 @@
 3	a_	a_	ADP	PREP	_	5	case	_	_
 4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	São	são	NOUN	STT	Gender=Masc|Number=Sing	2	obl	_	_
-6	Carlos	carlos	PROPN	PNM	_	5	fixed	_	_
+6	Carlos	carlos	PROPN	PNM	_	5	flat	_	_
 7	de	de	ADP	PREP	_	9	case	_	_
 8	'	'	PUNCT	PNT	_	9	punct	_	_
 9	La	la	PROPN	PNM	_	2	obl	_	_
@@ -25046,7 +25046,7 @@
 # text = O presidente Reagan aprendeu essa lição .
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Reagan	reagan	PROPN	PNM	_	2	fixed	_	_
+3	Reagan	reagan	PROPN	PNM	_	2	flat	_	_
 4	aprendeu	aprender	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	essa	essa	DET	DEM	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
 6	lição	lição	NOUN	CN	Gender=Fem|Number=Sing	4	obj	_	_
@@ -25068,14 +25068,14 @@
 11	de_	de_	ADP	PREP	_	13	case	_	_
 12	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	0	root	_	_
-14	Bush	bush	PROPN	PNM	_	13	fixed	_	_
+14	Bush	bush	PROPN	PNM	_	13	flat	_	_
 15	.	.	PUNCT	PNT	_	13	punct	_	_
 
 # sent_id = 32385
 # text = O presidente Bush deveria esclarecer a questão .
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Bush	bush	PROPN	PNM	_	2	fixed	_	_
+3	Bush	bush	PROPN	PNM	_	2	flat	_	_
 4	deveria	dever	VERB	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 5	esclarecer	esclarecer	VERB	INF	VerbForm=Inf	4	xcomp	_	_
 6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -25093,7 +25093,7 @@
 6	em_	em_	ADP	PREP	_	8	case	_	_
 7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	2	obl	_	_
-9	Reagan	reagan	PROPN	PNM	_	8	fixed	_	_
+9	Reagan	reagan	PROPN	PNM	_	8	flat	_	_
 10	.	.	PUNCT	PNT	_	2	punct	_	_
 
 # sent_id = 32387
@@ -25763,11 +25763,11 @@
 3	,	,	PUNCT	PNT	_	1	punct	_	_
 4	economista	economista	NOUN	CN	Number=Sing	1	obl	_	_
 5-6	da	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	4	fixed	_	_
-6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	_
-7	Universidade	universidade	PROPN	PNM	_	4	fixed	_	_
-8	de	de	ADP	PREP	_	4	fixed	_	_
-9	Pepperdine	pepperdine	PROPN	PNM	_	4	fixed	_	_
+5	de_	de_	ADP	PREP	_	4	flat	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat	_	_
+7	Universidade	universidade	PROPN	PNM	_	4	flat	_	_
+8	de	de	ADP	PREP	_	4	flat	_	_
+9	Pepperdine	pepperdine	PROPN	PNM	_	4	flat	_	_
 10	,	,	PUNCT	PNT	_	1	punct	_	_
 11	rejeita	rejeitar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	essa	essa	DET	DEM	Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
@@ -25778,7 +25778,7 @@
 # text = Em São Francisco , os apoiantes admitem que a decisão sobre o estádio , na melhor das hipóteses , está empatada nas sondagens .
 1	Em	em	ADP	PREP	_	2	case	_	_
 2	São	são	NOUN	STT	Gender=Masc|Number=Sing	7	obl	_	_
-3	Francisco	francisco	PROPN	PNM	_	2	fixed	_	_
+3	Francisco	francisco	PROPN	PNM	_	2	flat	_	_
 4	,	,	PUNCT	PNT	_	2	punct	_	_
 5	os	os	DET	DA	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	apoiantes	apoiante	NOUN	CN	Gender=Masc|Number=Plur	7	nsubj	_	_
@@ -25834,9 +25834,9 @@
 1	Um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	porta-voz	porta-voz	NOUN	CN	Gender=Masc|Number=Sing	6	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-5	Shearson	shearson	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+5	Shearson	shearson	PROPN	PNM	_	2	flat	_	_
 6	afirma	afirmar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	CJ	_	12	mark	_	_
 8	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -25884,7 +25884,7 @@
 13	agricultores	agricultor	NOUN	CN	Gender=Masc|Number=Plur	11	obj	_	_
 14	em	em	ADP	PREP	_	15	case	_	_
 15	São	são	NOUN	STT	Gender=Masc|Number=Sing	11	obl	_	_
-16	Salvador	salvador	PROPN	PNM	_	15	fixed	_	_
+16	Salvador	salvador	PROPN	PNM	_	15	flat	_	_
 17	e	e	CCONJ	CJ	_	20	cc	_	_
 18-19	no	_	_	_	_	_	_	_	_
 18	em_	em_	ADP	PREP	_	20	case	_	_
@@ -26032,9 +26032,9 @@
 9	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	mercado	mercado	NOUN	CN	Gender=Masc|Number=Sing	15	nsubj	_	_
 11-12	do	_	_	_	_	_	_	_	_
-11	de_	de_	ADP	PREP	_	10	fixed	_	_
-12	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	_
-13	Tesouro	tesouro	PROPN	PNM	_	10	fixed	_	_
+11	de_	de_	ADP	PREP	_	10	flat	_	_
+12	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	flat	_	_
+13	Tesouro	tesouro	PROPN	PNM	_	10	flat	_	_
 14	permaneceu	permanecer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	dep	_	_
 15	imutável	imutável	ADJ	ADJ	Number=Sing	0	root	_	_
 16	,	,	PUNCT	PNT	_	15	punct	_	_
@@ -26452,7 +26452,7 @@
 # sent_id = 32461
 # text = A Heritage possui e gere estações de rádio e de televisão e programas de promoção e de publicidade em lojas .
 1	A	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	nsubj	_	_
-2	Heritage	heritage	PROPN	PNM	_	1	fixed	_	_
+2	Heritage	heritage	PROPN	PNM	_	1	flat	_	_
 3	possui	possuir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	e	e	CCONJ	CJ	_	5	cc	_	_
 5	gere	gerir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
@@ -26573,16 +26573,16 @@
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	16	nsubj	_	_
 3-4	do	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	fixed	_	_
-5	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	2	fixed	_	_
-6	de	de	ADP	PREP	_	2	fixed	_	_
-7	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	flat	_	_
+5	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	2	flat	_	_
+6	de	de	ADP	PREP	_	2	flat	_	_
+7	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	2	flat	_	_
 8-9	da	_	_	_	_	_	_	_	_
-8	de_	de_	ADP	PREP	_	2	fixed	_	_
-9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-10	Random	random	PROPN	PNM	_	2	fixed	_	_
-11	House	house	PROPN	PNM	_	2	fixed	_	_
+8	de_	de_	ADP	PREP	_	2	flat	_	_
+9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+10	Random	random	PROPN	PNM	_	2	flat	_	_
+11	House	house	PROPN	PNM	_	2	flat	_	_
 12	,	,	PUNCT	PNT	_	2	punct	_	_
 13	Robert	robert	PROPN	PNM	_	2	obl	_	_
 14	Bernstein	bernstein	PROPN	PNM	_	13	flat	_	_
@@ -28360,8 +28360,8 @@
 5	de_	de_	ADP	PREP	_	7	case	_	_
 6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	primeiro-ministro	primeiro-ministro	NOUN	CN	Gender=Masc|Number=Sing	4	obl	_	_
-8	John	john	PROPN	PNM	_	7	fixed	_	_
-9	Major	major	PROPN	PNM	_	7	fixed	_	_
+8	John	john	PROPN	PNM	_	7	flat	_	_
+9	Major	major	PROPN	PNM	_	7	flat	_	_
 10	perante	perante	ADP	PREP	_	12	case	_	_
 11	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	partido	partido	NOUN	CN	Gender=Masc|Number=Sing	4	obl	_	_
@@ -28658,12 +28658,12 @@
 3	,	,	PUNCT	PNT	_	1	punct	_	_
 4	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 5-6	do	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	4	fixed	_	_
-6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	fixed	_	_
-7	Council	council	PROPN	PNM	_	4	fixed	_	_
-8	of	of	PROPN	PNM	_	4	fixed	_	_
-9	Economic	economic	PROPN	PNM	_	4	fixed	_	_
-10	Advisers	advisers	PROPN	PNM	_	4	fixed	_	_
+5	de_	de_	ADP	PREP	_	4	flat	_	_
+6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	flat	_	_
+7	Council	council	PROPN	PNM	_	4	flat	_	_
+8	of	of	PROPN	PNM	_	4	flat	_	_
+9	Economic	economic	PROPN	PNM	_	4	flat	_	_
+10	Advisers	advisers	PROPN	PNM	_	4	flat	_	_
 11	,	,	PUNCT	PNT	_	1	punct	_	_
 12	também	também	ADV	ADV	_	15	advmod	_	_
 13	será	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	cop	_	_
@@ -29068,11 +29068,11 @@
 15	antigo	antigo	ADJ	ADJ	Gender=Masc|Number=Sing	16	amod	_	_
 16	governador	governador	NOUN	CN	Gender=Masc|Number=Sing	6	obl	_	_
 17-18	do	_	_	_	_	_	_	_	_
-17	de_	de_	ADP	PREP	_	16	fixed	_	_
-18	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	fixed	_	_
-19	estado	estado	NOUN	CN	Gender=Masc|Number=Sing	16	fixed	_	_
-20	de	de	ADP	PREP	_	16	fixed	_	_
-21	Alagoas	alagoas	PROPN	PNM	_	16	fixed	_	_
+17	de_	de_	ADP	PREP	_	16	flat	_	_
+18	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	flat	_	_
+19	estado	estado	NOUN	CN	Gender=Masc|Number=Sing	16	flat	_	_
+20	de	de	ADP	PREP	_	16	flat	_	_
+21	Alagoas	alagoas	PROPN	PNM	_	16	flat	_	_
 22	.	.	PUNCT	PNT	_	6	punct	_	_
 
 # sent_id = 32609
@@ -29384,14 +29384,14 @@
 # text = Presidente do North American Physicians Insurance Risk Retention Group
 1	Presidente	presidente	NOUN	STT	Gender=Masc|Number=Sing	0	root	_	_
 2-3	do	_	_	_	_	_	_	_	_
-2	de_	de_	ADP	PREP	_	1	fixed	_	_
-3	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
-4	North	north	PROPN	PNM	_	1	fixed	_	_
-5	American	american	PROPN	PNM	_	1	fixed	_	_
-6	Physicians	physicians	PROPN	PNM	_	1	fixed	_	_
-7	Insurance	insurance	PROPN	PNM	_	1	fixed	_	_
-8	Risk	risk	PROPN	PNM	_	1	fixed	_	_
-9	Retention	retention	PROPN	PNM	_	1	fixed	_	_
+2	de_	de_	ADP	PREP	_	1	flat	_	_
+3	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	flat	_	_
+4	North	north	PROPN	PNM	_	1	flat	_	_
+5	American	american	PROPN	PNM	_	1	flat	_	_
+6	Physicians	physicians	PROPN	PNM	_	1	flat	_	_
+7	Insurance	insurance	PROPN	PNM	_	1	flat	_	_
+8	Risk	risk	PROPN	PNM	_	1	flat	_	_
+9	Retention	retention	PROPN	PNM	_	1	flat	_	_
 10	Group	group	PROPN	PNM	_	1	dep	_	_
 
 # sent_id = 32629
@@ -29571,13 +29571,13 @@
 1	Brady	brady	PROPN	PNM	_	3	nsubj	_	_
 2	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	directora	director	NOUN	CN	Gender=Fem|Number=Sing	0	root	_	_
-4	adjunta	adjunto	ADJ	ADJ	Gender=Fem|Number=Sing	3	fixed	_	_
+4	adjunta	adjunto	ADJ	ADJ	Gender=Fem|Number=Sing	3	flat	_	_
 5-6	da	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	3	fixed	_	_
-6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	fixed	_	_
-7	Russian	russian	PROPN	PNM	_	3	fixed	_	_
-8	Research	research	PROPN	PNM	_	3	fixed	_	_
-9	Federation	federation	PROPN	PNM	_	3	fixed	_	_
+5	de_	de_	ADP	PREP	_	3	flat	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	flat	_	_
+7	Russian	russian	PROPN	PNM	_	3	flat	_	_
+8	Research	research	PROPN	PNM	_	3	flat	_	_
+9	Federation	federation	PROPN	PNM	_	3	flat	_	_
 10	em	em	ADP	PREP	_	11	case	_	_
 11	Londres	londres	PROPN	PNM	_	3	obl	_	_
 12	.	.	PUNCT	PNT	_	3	punct	_	_
@@ -29617,10 +29617,10 @@
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	11	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-5	CBS	cbs	PROPN	PNM	_	2	fixed	_	_
-6	Sports	sports	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+5	CBS	cbs	PROPN	PNM	_	2	flat	_	_
+6	Sports	sports	PROPN	PNM	_	2	flat	_	_
 7	,	,	PUNCT	PNT	_	2	punct	_	_
 8	Neal	neal	PROPN	PNM	_	2	obl	_	_
 9	Pilson	pilson	PROPN	PNM	_	8	flat	_	_
@@ -29835,12 +29835,12 @@
 2	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	vice-presidente	vice-presidente	NOUN	CN	Gender=Masc|Number=Sing	0	root	_	_
-5	executivo	executivo	ADJ	ADJ	Gender=Masc|Number=Sing	4	fixed	_	_
+5	executivo	executivo	ADJ	ADJ	Gender=Masc|Number=Sing	4	flat	_	_
 6-7	da	_	_	_	_	_	_	_	_
-6	de_	de_	ADP	PREP	_	4	fixed	_	_
-7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	_
-8	American	american	PROPN	PNM	_	4	fixed	_	_
-9	Express	express	PROPN	PNM	_	4	fixed	_	_
+6	de_	de_	ADP	PREP	_	4	flat	_	_
+7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat	_	_
+8	American	american	PROPN	PNM	_	4	flat	_	_
+9	Express	express	PROPN	PNM	_	4	flat	_	_
 10	.	.	PUNCT	PNT	_	4	punct	_	_
 
 # sent_id = 32659
@@ -30454,9 +30454,9 @@
 13	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	estado	estado	NOUN	CN	Gender=Masc|Number=Sing	11	obl	_	_
 15-16	do	_	_	_	_	_	_	_	_
-15	de_	de_	ADP	PREP	_	14	fixed	_	_
-16	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	fixed	_	_
-17	Connecticut	connecticut	PROPN	PNM	_	14	fixed	_	_
+15	de_	de_	ADP	PREP	_	14	flat	_	_
+16	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	flat	_	_
+17	Connecticut	connecticut	PROPN	PNM	_	14	flat	_	_
 18	,	,	PUNCT	PNT	_	21	punct	_	_
 19-20	num	_	_	_	_	_	_	_	_
 19	em_	em_	ADP	PREP	_	21	case	_	_
@@ -30722,8 +30722,8 @@
 5	em_	em_	ADP	PREP	_	7	case	_	_
 6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	Praça	praça	NOUN	PADR	Gender=Fem|Number=Sing	3	obl	_	_
-8	de	de	ADP	PREP	_	7	fixed	_	_
-9	Pushkin	pushkin	PROPN	PNM	_	7	fixed	_	_
+8	de	de	ADP	PREP	_	7	flat	_	_
+9	Pushkin	pushkin	PROPN	PNM	_	7	flat	_	_
 10	,	,	PUNCT	PNT	_	14	punct	_	_
 11	onde	onde	PRON	REL	PronType=Rel	14	obl	_	_
 12	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -30953,11 +30953,11 @@
 2	,	,	PUNCT	PNT	_	1	punct	_	_
 3	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 4-5	da	_	_	_	_	_	_	_	_
-4	de_	de_	ADP	PREP	_	3	fixed	_	_
-5	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	fixed	_	_
-6	Luzon	luzon	PROPN	PNM	_	3	fixed	_	_
-7	Petrochemical	petrochemical	PROPN	PNM	_	3	fixed	_	_
-8	Corp.	corp.	PROPN	PNM	_	3	fixed	_	_
+4	de_	de_	ADP	PREP	_	3	flat	_	_
+5	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	flat	_	_
+6	Luzon	luzon	PROPN	PNM	_	3	flat	_	_
+7	Petrochemical	petrochemical	PROPN	PNM	_	3	flat	_	_
+8	Corp.	corp.	PROPN	PNM	_	3	flat	_	_
 9	,	,	PUNCT	PNT	_	1	punct	_	_
 10	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	que	que	SCONJ	CJ	_	15	mark	_	_
@@ -30979,8 +30979,8 @@
 25	de_	de_	ADP	PREP	_	27	case	_	_
 26	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	UCI	uci	NUM	DGTR	NumType=Card	24	obl	_	_
-28	Far	far	PROPN	PNM	_	27	fixed	_	_
-29	East	east	PROPN	PNM	_	27	fixed	_	_
+28	Far	far	PROPN	PNM	_	27	flat	_	_
+29	East	east	PROPN	PNM	_	27	flat	_	_
 30	.	.	PUNCT	PNT	_	10	punct	_	_
 
 # sent_id = 32728
@@ -31187,7 +31187,7 @@
 3	estadual	estadual	ADJ	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	de	de	ADP	PREP	_	5	case	_	_
 5	São	são	NOUN	STT	Gender=Masc|Number=Sing	2	amod	_	_
-6	Francisco	francisco	PROPN	PNM	_	5	fixed	_	_
+6	Francisco	francisco	PROPN	PNM	_	5	flat	_	_
 7	teve	ter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	uma	uma	DET	UM	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	média	média	NOUN	CN	Gender=Fem|Number=Sing	7	obj	_	_
@@ -31814,10 +31814,10 @@
 4	,	,	PUNCT	PNT	_	1	punct	_	_
 5	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 6-7	da	_	_	_	_	_	_	_	_
-6	de_	de_	ADP	PREP	_	5	fixed	_	_
-7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	fixed	_	_
-8	CBS	cbs	PROPN	PNM	_	5	fixed	_	_
-9	News	news	PROPN	PNM	_	5	fixed	_	_
+6	de_	de_	ADP	PREP	_	5	flat	_	_
+7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	flat	_	_
+8	CBS	cbs	PROPN	PNM	_	5	flat	_	_
+9	News	news	PROPN	PNM	_	5	flat	_	_
 10	,	,	PUNCT	PNT	_	1	punct	_	_
 11	não	não	ADV	ADV	_	12	advmod	_	_
 12	retribuiu	retribuir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -32503,8 +32503,8 @@
 9	por_	por_	ADP	PREP	_	11	case	_	_
 10	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	General	general	NOUN	STT	Gender=Masc|Number=Sing	8	obl	_	_
-12	Electric	electric	PROPN	PNM	_	11	fixed	_	_
-13	Co	co	PROPN	PNM	_	11	fixed	_	_
+12	Electric	electric	PROPN	PNM	_	11	flat	_	_
+13	Co	co	PROPN	PNM	_	11	flat	_	_
 14	.	.	PUNCT	PNT	_	7	punct	_	_
 
 # sent_id = 32813
@@ -33219,7 +33219,7 @@
 9	ajudas	ajuda	NOUN	CN	Gender=Fem|Number=Plur	8	obj	_	_
 10	a	a	ADP	PREP	_	11	case	_	_
 11	São	são	NOUN	STT	Gender=Masc|Number=Sing	8	obl	_	_
-12	Francisco	francisco	PROPN	PNM	_	11	fixed	_	_
+12	Francisco	francisco	PROPN	PNM	_	11	flat	_	_
 13	.	.	PUNCT	PNT	_	8	punct	_	_
 
 # sent_id = 32855
@@ -33799,9 +33799,9 @@
 8	,	,	PUNCT	PNT	_	5	punct	_	_
 9	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	5	obl	_	_
 10-11	da	_	_	_	_	_	_	_	_
-10	de_	de_	ADP	PREP	_	9	fixed	_	_
-11	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	fixed	_	_
-12	Crowntuft	crowntuft	PROPN	PNM	_	9	fixed	_	_
+10	de_	de_	ADP	PREP	_	9	flat	_	_
+11	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	flat	_	_
+12	Crowntuft	crowntuft	PROPN	PNM	_	9	flat	_	_
 13	,	,	PUNCT	PNT	_	5	punct	_	_
 14	vai	ir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 15	continuar	continuar	VERB	INF	VerbForm=Inf	17	dep	_	_
@@ -34620,7 +34620,7 @@
 13	terramoto	terramoto	NOUN	CN	Gender=Masc|Number=Sing	9	obl	_	_
 14	de	de	ADP	PREP	_	15	case	_	_
 15	São	são	NOUN	STT	Gender=Masc|Number=Sing	13	amod	_	_
-16	Francisco	francisco	PROPN	PNM	_	15	fixed	_	_
+16	Francisco	francisco	PROPN	PNM	_	15	flat	_	_
 17	.	.	PUNCT	PNT	_	9	punct	_	_
 
 # sent_id = 32931
@@ -34904,9 +34904,9 @@
 3	,	,	PUNCT	PNT	_	1	punct	_	_
 4	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 5-6	da	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	4	fixed	_	_
-6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	_
-7	Unisys	unisys	PROPN	PNM	_	4	fixed	_	_
+5	de_	de_	ADP	PREP	_	4	flat	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat	_	_
+7	Unisys	unisys	PROPN	PNM	_	4	flat	_	_
 8	,	,	PUNCT	PNT	_	1	punct	_	_
 9	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	que	que	SCONJ	CJ	_	11	mark	_	_
@@ -35475,7 +35475,7 @@
 3	de_	de_	ADP	PREP	_	5	case	_	_
 4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	2	obl	_	_
-6	Klerk	klerk	PROPN	PNM	_	5	fixed	_	_
+6	Klerk	klerk	PROPN	PNM	_	5	flat	_	_
 7	permitiu	permitir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	encontro	encontro	NOUN	CN	Gender=Masc|Number=Sing	7	obj	_	_
@@ -35558,8 +35558,8 @@
 5	em_	em_	ADP	PREP	_	7	case	_	_
 6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	aeroporto	aeroporto	NOUN	CN	Gender=Masc|Number=Sing	4	obl	_	_
-8	de	de	ADP	PREP	_	7	fixed	_	_
-9	Molokai	molokai	PROPN	PNM	_	7	fixed	_	_
+8	de	de	ADP	PREP	_	7	flat	_	_
+9	Molokai	molokai	PROPN	PNM	_	7	flat	_	_
 10-11	no	_	_	_	_	_	_	_	_
 10	em_	em_	ADP	PREP	_	12	case	_	_
 11	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -35761,7 +35761,7 @@
 3	enfureceu	enfurecer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	3	obj	_	_
-6	Greenspan	greenspan	PROPN	PNM	_	5	fixed	_	_
+6	Greenspan	greenspan	PROPN	PNM	_	5	flat	_	_
 7	,	,	PUNCT	PNT	_	3	punct	_	_
 8	mas	mas	CCONJ	CJ	_	10	cc	_	_
 9	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
@@ -35770,7 +35770,7 @@
 11	por_	por_	ADP	PREP	_	13	case	_	_
 12	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	10	obl	_	_
-14	Bush	bush	PROPN	PNM	_	13	fixed	_	_
+14	Bush	bush	PROPN	PNM	_	13	flat	_	_
 15	e	e	CCONJ	CJ	_	18	cc	_	_
 16-17	pelos	_	_	_	_	_	_	_	_
 16	por_	por_	ADP	PREP	_	18	case	_	_
@@ -35995,11 +35995,11 @@
 4	uma	uma	DET	UM	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	subsidiária	subsidiário	NOUN	CN	Gender=Fem|Number=Sing	0	root	_	_
 6-7	da	_	_	_	_	_	_	_	_
-6	de_	de_	ADP	PREP	_	5	fixed	_	_
-7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	fixed	_	_
-8	MNC	mnc	PROPN	PNM	_	5	fixed	_	_
-9	Financial	financial	PROPN	PNM	_	5	fixed	_	_
-10	Inc.	inc.	PROPN	PNM	_	5	fixed	_	_
+6	de_	de_	ADP	PREP	_	5	flat	_	_
+7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	flat	_	_
+8	MNC	mnc	PROPN	PNM	_	5	flat	_	_
+9	Financial	financial	PROPN	PNM	_	5	flat	_	_
+10	Inc.	inc.	PROPN	PNM	_	5	flat	_	_
 11	,	,	PUNCT	PNT	_	12	punct	_	_
 12	sediada	sediar,sediado	VERB	PPA	Gender=Fem|Number=Sing|VerbForm=Part	5	amod	_	_
 13	em	em	ADP	PREP	_	14	case	_	_
@@ -36694,8 +36694,8 @@
 # text = O banco de Paris não publica esses valores .
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	banco	banco	NOUN	CN	Gender=Masc|Number=Sing	6	nsubj	_	_
-3	de	de	ADP	PREP	_	2	fixed	_	_
-4	Paris	paris	PROPN	PNM	_	2	fixed	_	_
+3	de	de	ADP	PREP	_	2	flat	_	_
+4	Paris	paris	PROPN	PNM	_	2	flat	_	_
 5	não	não	ADV	ADV	_	6	advmod	_	_
 6	publica	publicar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	esses	esses	DET	DEM	Gender=Masc|Number=Plur|PronType=Dem	8	det	_	_
@@ -37385,7 +37385,7 @@
 9	terramoto	terramoto	NOUN	CN	Gender=Masc|Number=Sing	13	nsubj	_	_
 10	de	de	ADP	PREP	_	11	case	_	_
 11	São	são	NOUN	STT	Gender=Masc|Number=Sing	9	amod	_	_
-12	Francisco	francisco	PROPN	PNM	_	11	fixed	_	_
+12	Francisco	francisco	PROPN	PNM	_	11	flat	_	_
 13	ocorreu	ocorrer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	quando	quando	SCONJ	CJ	_	22	dep	_	_
 15	os	os	DET	DA	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
@@ -37406,7 +37406,7 @@
 3	escritórios	escritório	NOUN	CN	Gender=Masc|Number=Plur	2	nsubj	_	_
 4	em	em	ADP	PREP	_	5	case	_	_
 5	São	são	NOUN	STT	Gender=Masc|Number=Sing	2	amod	_	_
-6	Francisco	francisco	PROPN	PNM	_	5	fixed	_	_
+6	Francisco	francisco	PROPN	PNM	_	5	flat	_	_
 7	e	e	CCONJ	CJ	_	8	cc	_	_
 8	San	san	PROPN	PNM	_	2	conj	_	_
 9	Jose	jose	PROPN	PNM	_	8	flat	_	_
@@ -37740,7 +37740,7 @@
 12	em	em	ADP	PREP	_	13	case	_	_
 13	St	st	PROPN	PNM	_	11	obl	_	_
 14	.	.	PUNCT	PNT	_	13	punct	_	_
-15	Louis	louis	PROPN	PNM	_	13	fixed	_	_
+15	Louis	louis	PROPN	PNM	_	13	flat	_	_
 16	,	,	PUNCT	PNT	_	19	punct	_	_
 17-18	no	_	_	_	_	_	_	_	_
 17	em_	em_	ADP	PREP	_	19	case	_	_
@@ -37997,11 +37997,11 @@
 3	,	,	PUNCT	PNT	_	1	punct	_	_
 4	governador	governador	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 5-6	do	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	4	fixed	_	_
-6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	fixed	_	_
-7	Bank	bank	PROPN	PNM	_	4	fixed	_	_
-8	of	of	PROPN	PNM	_	4	fixed	_	_
-9	England	england	PROPN	PNM	_	4	fixed	_	_
+5	de_	de_	ADP	PREP	_	4	flat	_	_
+6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	flat	_	_
+7	Bank	bank	PROPN	PNM	_	4	flat	_	_
+8	of	of	PROPN	PNM	_	4	flat	_	_
+9	England	england	PROPN	PNM	_	4	flat	_	_
 10	,	,	PUNCT	PNT	_	1	punct	_	_
 11	solicitou	solicitar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12-13	aos	_	_	_	_	_	_	_	_
@@ -38420,7 +38420,7 @@
 # text = O representante Traxler comprou recentemente um lote de edifícios em decadência na ilha .
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	representante	representante	NOUN	CN	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Traxler	traxler	PROPN	PNM	_	2	fixed	_	_
+3	Traxler	traxler	PROPN	PNM	_	2	flat	_	_
 4	comprou	comprar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	recentemente	recentemente	ADV	ADV	_	4	advmod	_	_
 6	um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -38702,10 +38702,10 @@
 8	que	que	PRON	LCJ2	PronType=Rel	7	fixed	_	_
 9	os	os	DET	DA	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	realizadores	realizador	NOUN	CN	Gender=Masc|Number=Plur	16	nsubj	_	_
-11	Daniel	daniel	PROPN	PNM	_	10	dep	_	_
+11	Daniel	daniel	PROPN	PNM	_	10	flat	_	_
 12	Grodnik	grodnik	PROPN	PNM	_	11	flat	_	_
 13	e	e	CCONJ	CJ	_	14	cc	_	_
-14	Tim	tim	PROPN	PNM	_	10	conj	_	_
+14	Tim	tim	PROPN	PNM	_	10	flat	_	_
 15	Matheson	matheson	PROPN	PNM	_	14	flat	_	_
 16	assumiram	assumir	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 17	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -39654,7 +39654,7 @@
 2	,	,	PUNCT	PNT	_	1	punct	_	_
 3	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	6	nsubj	_	_
-5	Bush	bush	PROPN	PNM	_	4	fixed	_	_
+5	Bush	bush	PROPN	PNM	_	4	flat	_	_
 6	aumentou	aumentar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	sua	sua	PRON	POSS	Gender=Fem|Number=Sing|PronType=Prs	9	amod	_	_
@@ -39746,9 +39746,9 @@
 1	Um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	porta-voz	porta-voz	NOUN	CN	Gender=Masc|Number=Sing	6	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-5	ITT	itt	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+5	ITT	itt	PROPN	PNM	_	2	flat	_	_
 6	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	CJ	_	12	mark	_	_
 8	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -40988,13 +40988,13 @@
 7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Universidade	universidade	PROPN	PNM	_	4	obl	_	_
 9-10	do	_	_	_	_	_	_	_	_
-9	de_	de_	ADP	PREP	_	8	fixed	_	_
-10	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	fixed	_	_
-11	Estado	estado	PROPN	PNM	_	8	fixed	_	_
+9	de_	de_	ADP	PREP	_	8	flat	_	_
+10	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	flat	_	_
+11	Estado	estado	PROPN	PNM	_	8	flat	_	_
 12-13	do	_	_	_	_	_	_	_	_
-12	de_	de_	ADP	PREP	_	8	fixed	_	_
-13	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	fixed	_	_
-14	Ohio	ohio	PROPN	PNM	_	8	fixed	_	_
+12	de_	de_	ADP	PREP	_	8	flat	_	_
+13	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	flat	_	_
+14	Ohio	ohio	PROPN	PNM	_	8	flat	_	_
 15	.	.	PUNCT	PNT	_	1	punct	_	_
 
 # sent_id = 33310
@@ -41793,17 +41793,17 @@
 7	por_	por_	ADP	PREP	_	9	case	_	_
 8	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Bureau	bureau	PROPN	PNM	_	6	obl	_	_
-10	of	of	PROPN	PNM	_	9	fixed	_	_
-11	Economic	economic	PROPN	PNM	_	9	fixed	_	_
-12	Analysis	analysis	PROPN	PNM	_	9	fixed	_	_
+10	of	of	PROPN	PNM	_	9	flat	_	_
+11	Economic	economic	PROPN	PNM	_	9	flat	_	_
+12	Analysis	analysis	PROPN	PNM	_	9	flat	_	_
 13-14	do	_	_	_	_	_	_	_	_
-13	de_	de_	ADP	PREP	_	9	fixed	_	_
-14	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	fixed	_	_
-15	Departamento	departamento	PROPN	PNM	_	9	fixed	_	_
+13	de_	de_	ADP	PREP	_	9	flat	_	_
+14	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	flat	_	_
+15	Departamento	departamento	PROPN	PNM	_	9	flat	_	_
 16-17	do	_	_	_	_	_	_	_	_
-16	de_	de_	ADP	PREP	_	9	fixed	_	_
-17	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	fixed	_	_
-18	Comércio	comércio	PROPN	PNM	_	9	fixed	_	_
+16	de_	de_	ADP	PREP	_	9	flat	_	_
+17	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	flat	_	_
+18	Comércio	comércio	PROPN	PNM	_	9	flat	_	_
 19	subestimaram	subestimar	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 20	de	de	ADP	PREP	_	21	case	_	_
 21	forma	forma	NOUN	CN	Gender=Fem|Number=Sing	19	obl	_	_
@@ -41957,7 +41957,7 @@
 # text = O presidente Bush deve nomear outros dois membros , um democrata e um republicano .
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Bush	bush	PROPN	PNM	_	2	fixed	_	_
+3	Bush	bush	PROPN	PNM	_	2	flat	_	_
 4	deve	dever	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	nomear	nomear	VERB	INF	VerbForm=Inf	4	xcomp	_	_
 6	outros	outro	ADJ	ADJ	Gender=Masc|Number=Plur	8	amod	_	_
@@ -42846,17 +42846,17 @@
 5	em_	em_	ADP	PREP	_	7	case	_	_
 6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Instituto	instituto	PROPN	PNM	_	4	obl	_	_
-8	Nacional	nacional	PROPN	PNM	_	7	fixed	_	_
-9	de	de	ADP	PREP	_	7	fixed	_	_
-10	Justiça	justiça	PROPN	PNM	_	7	fixed	_	_
+8	Nacional	nacional	PROPN	PNM	_	7	flat	_	_
+9	de	de	ADP	PREP	_	7	flat	_	_
+10	Justiça	justiça	PROPN	PNM	_	7	flat	_	_
 11-12	do	_	_	_	_	_	_	_	_
-11	de_	de_	ADP	PREP	_	7	fixed	_	_
-12	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	fixed	_	_
-13	Departamento	departamento	PROPN	PNM	_	7	fixed	_	_
+11	de_	de_	ADP	PREP	_	7	flat	_	_
+12	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	flat	_	_
+13	Departamento	departamento	PROPN	PNM	_	7	flat	_	_
 14-15	da	_	_	_	_	_	_	_	_
-14	de_	de_	ADP	PREP	_	7	fixed	_	_
-15	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	fixed	_	_
-16	Justiça	justiça	PROPN	PNM	_	7	fixed	_	_
+14	de_	de_	ADP	PREP	_	7	flat	_	_
+15	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	flat	_	_
+16	Justiça	justiça	PROPN	PNM	_	7	flat	_	_
 17	.	.	PUNCT	PNT	_	4	punct	_	_
 
 # sent_id = 33419
@@ -43627,8 +43627,8 @@
 1	Para	para	ADP	PREP	_	3	case	_	_
 2	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	forças	força	NOUN	CN	Gender=Fem|Number=Plur	9	obl	_	_
-4	de	de	ADP	PREP	_	3	fixed	_	_
-5	Giuliani	giuliani	PROPN	PNM	_	3	fixed	_	_
+4	de	de	ADP	PREP	_	3	flat	_	_
+5	Giuliani	giuliani	PROPN	PNM	_	3	flat	_	_
 6	,	,	PUNCT	PNT	_	3	punct	_	_
 7	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 8	uma	uma	DET	UM	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -43694,15 +43694,15 @@
 14	e	e	CCONJ	CJ	_	15	cc	_	_
 15	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	9	conj	_	_
 16-17	do	_	_	_	_	_	_	_	_
-16	de_	de_	ADP	PREP	_	15	fixed	_	_
-17	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	fixed	_	_
-18	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	15	fixed	_	_
-19	de	de	ADP	PREP	_	15	fixed	_	_
-20	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	15	fixed	_	_
+16	de_	de_	ADP	PREP	_	15	flat	_	_
+17	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	flat	_	_
+18	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	15	flat	_	_
+19	de	de	ADP	PREP	_	15	flat	_	_
+20	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	15	flat	_	_
 21-22	da	_	_	_	_	_	_	_	_
-21	de_	de_	ADP	PREP	_	15	fixed	_	_
-22	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	fixed	_	_
-23	Winnebago	winnebago	PROPN	PNM	_	15	fixed	_	_
+21	de_	de_	ADP	PREP	_	15	flat	_	_
+22	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	flat	_	_
+23	Winnebago	winnebago	PROPN	PNM	_	15	flat	_	_
 24	.	.	PUNCT	PNT	_	7	punct	_	_
 
 # sent_id = 33466
@@ -43796,9 +43796,9 @@
 7	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	representante	representante	NOUN	CN	Gender=Masc|Number=Sing	5	obl	_	_
 9-10	da	_	_	_	_	_	_	_	_
-9	de_	de_	ADP	PREP	_	8	fixed	_	_
-10	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	fixed	_	_
-11	Givaudan	givaudan	PROPN	PNM	_	8	fixed	_	_
+9	de_	de_	ADP	PREP	_	8	flat	_	_
+10	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	flat	_	_
+11	Givaudan	givaudan	PROPN	PNM	_	8	flat	_	_
 12	não	não	ADV	ADV	_	13	advmod	_	_
 13	recebeu	receber	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	encomendas	encomendo	NOUN	CN	Gender=Fem|Number=Plur	13	obj	_	_
@@ -44095,11 +44095,11 @@
 12	por_	por_	ADP	PREP	_	14	case	_	_
 13	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	Bolsa	bolsa	PROPN	PNM	_	11	obl	_	_
-15	de	de	ADP	PREP	_	14	fixed	_	_
-16	Valores	valores	PROPN	PNM	_	14	fixed	_	_
-17	de	de	ADP	PREP	_	14	fixed	_	_
-18	Nova	nova	PROPN	PNM	_	14	fixed	_	_
-19	Iorque	iorque	PROPN	PNM	_	14	fixed	_	_
+15	de	de	ADP	PREP	_	14	flat	_	_
+16	Valores	valores	PROPN	PNM	_	14	flat	_	_
+17	de	de	ADP	PREP	_	14	flat	_	_
+18	Nova	nova	PROPN	PNM	_	14	flat	_	_
+19	Iorque	iorque	PROPN	PNM	_	14	flat	_	_
 20	.	.	PUNCT	PNT	_	11	punct	_	_
 
 # sent_id = 33490
@@ -44110,11 +44110,11 @@
 3	em_	em_	ADP	PREP	_	5	case	_	_
 4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Bolsa	bolsa	PROPN	PNM	_	2	obl	_	_
-6	de	de	ADP	PREP	_	5	fixed	_	_
-7	Valores	valores	PROPN	PNM	_	5	fixed	_	_
-8	de	de	ADP	PREP	_	5	fixed	_	_
-9	Nova	nova	PROPN	PNM	_	5	fixed	_	_
-10	Iorque	iorque	PROPN	PNM	_	5	fixed	_	_
+6	de	de	ADP	PREP	_	5	flat	_	_
+7	Valores	valores	PROPN	PNM	_	5	flat	_	_
+8	de	de	ADP	PREP	_	5	flat	_	_
+9	Nova	nova	PROPN	PNM	_	5	flat	_	_
+10	Iorque	iorque	PROPN	PNM	_	5	flat	_	_
 11	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
 12	de	de	ADP	PREP	_	13	case	_	_
 13	164.830.000	164.830.000	NUM	DGT	NumType=Card	0	root	_	_
@@ -44128,11 +44128,11 @@
 3	em_	em_	ADP	PREP	_	5	case	_	_
 4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Bolsa	bolsa	PROPN	PNM	_	2	obl	_	_
-6	de	de	ADP	PREP	_	5	fixed	_	_
-7	Valores	valores	PROPN	PNM	_	5	fixed	_	_
-8	de	de	ADP	PREP	_	5	fixed	_	_
-9	Nova	nova	PROPN	PNM	_	5	fixed	_	_
-10	Iorque	iorque	PROPN	PNM	_	5	fixed	_	_
+6	de	de	ADP	PREP	_	5	flat	_	_
+7	Valores	valores	PROPN	PNM	_	5	flat	_	_
+8	de	de	ADP	PREP	_	5	flat	_	_
+9	Nova	nova	PROPN	PNM	_	5	flat	_	_
+10	Iorque	iorque	PROPN	PNM	_	5	flat	_	_
 11-12	atrasaram-se	_	_	_	_	_	_	_	_
 11	atrasaram	atrasar	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	-se	-se	PRON	CL	Person=3|PronType=Prs	11	obj	_	_
@@ -44370,17 +44370,17 @@
 4	,	,	PUNCT	PNT	_	1	punct	_	_
 5	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 6-7	do	_	_	_	_	_	_	_	_
-6	de_	de_	ADP	PREP	_	5	fixed	_	_
-7	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	fixed	_	_
-8	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	5	fixed	_	_
-9	de	de	ADP	PREP	_	5	fixed	_	_
-10	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	5	fixed	_	_
+6	de_	de_	ADP	PREP	_	5	flat	_	_
+7	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	flat	_	_
+8	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	5	flat	_	_
+9	de	de	ADP	PREP	_	5	flat	_	_
+10	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	5	flat	_	_
 11-12	da	_	_	_	_	_	_	_	_
-11	de_	de_	ADP	PREP	_	5	fixed	_	_
-12	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	fixed	_	_
-13	Jet	jet	PROPN	PNM	_	5	fixed	_	_
-14	Vacations	vacations	PROPN	PNM	_	5	fixed	_	_
-15	Inc.	inc.	PROPN	PNM	_	5	fixed	_	_
+11	de_	de_	ADP	PREP	_	5	flat	_	_
+12	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	flat	_	_
+13	Jet	jet	PROPN	PNM	_	5	flat	_	_
+14	Vacations	vacations	PROPN	PNM	_	5	flat	_	_
+15	Inc.	inc.	PROPN	PNM	_	5	flat	_	_
 16	,	,	PUNCT	PNT	_	1	punct	_	_
 17	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_
 18	eleito	eleger,eleito	VERB	PPA	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
@@ -44810,13 +44810,13 @@
 4	,	,	PUNCT	PNT	_	1	punct	_	_
 5	director	director	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 6-7	do	_	_	_	_	_	_	_	_
-6	de_	de_	ADP	PREP	_	5	fixed	_	_
-7	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	fixed	_	_
-8	Instituto	instituto	PROPN	PNM	_	5	fixed	_	_
-9	Francês	francês	PROPN	PNM	_	5	fixed	_	_
-10	de	de	ADP	PREP	_	5	fixed	_	_
-11	Relações	relações	PROPN	PNM	_	5	fixed	_	_
-12	Internacionais	internacionais	PROPN	PNM	_	5	fixed	_	_
+6	de_	de_	ADP	PREP	_	5	flat	_	_
+7	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	flat	_	_
+8	Instituto	instituto	PROPN	PNM	_	5	flat	_	_
+9	Francês	francês	PROPN	PNM	_	5	flat	_	_
+10	de	de	ADP	PREP	_	5	flat	_	_
+11	Relações	relações	PROPN	PNM	_	5	flat	_	_
+12	Internacionais	internacionais	PROPN	PNM	_	5	flat	_	_
 13	em	em	ADP	PREP	_	14	case	_	_
 14	Paris	paris	PROPN	PNM	_	5	obl	_	_
 15	,	,	PUNCT	PNT	_	1	punct	_	_
@@ -44950,9 +44950,9 @@
 9	antigo	antigo	ADJ	ADJ	Gender=Masc|Number=Sing	10	amod	_	_
 10	COO	coo	NOUN	CN	Gender=Masc|Number=Sing	6	obl	_	_
 11-12	da	_	_	_	_	_	_	_	_
-11	de_	de_	ADP	PREP	_	10	fixed	_	_
-12	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	fixed	_	_
-13	Sharon	sharon	PROPN	PNM	_	10	fixed	_	_
+11	de_	de_	ADP	PREP	_	10	flat	_	_
+12	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	flat	_	_
+13	Sharon	sharon	PROPN	PNM	_	10	flat	_	_
 14	,	,	PUNCT	PNT	_	6	punct	_	_
 15	e	e	CCONJ	CJ	_	16	cc	_	_
 16	Wolfgang	wolfgang	PROPN	PNM	_	5	obj	_	_
@@ -45142,9 +45142,9 @@
 5	actual	actual	ADJ	ADJ	Gender=Masc|Number=Sing	1	amod	_	_
 6	secretário	secretário	NOUN	CN	Gender=Masc|Number=Sing	5	obl	_	_
 7-8	do	_	_	_	_	_	_	_	_
-7	de_	de_	ADP	PREP	_	6	fixed	_	_
-8	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	fixed	_	_
-9	Tesouro	tesouro	PROPN	PNM	_	6	fixed	_	_
+7	de_	de_	ADP	PREP	_	6	flat	_	_
+8	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	flat	_	_
+9	Tesouro	tesouro	PROPN	PNM	_	6	flat	_	_
 10	,	,	PUNCT	PNT	_	1	punct	_	_
 11	tem	ter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	conhecimento	conhecimento	NOUN	CN	Gender=Masc|Number=Sing	11	obj	_	_
@@ -45516,7 +45516,7 @@
 5	em	em	ADP	PREP	_	6	case	_	_
 6	Washington	washington	PROPN	PNM	_	4	obl	_	_
 7	,	,	PUNCT	PNT	_	6	punct	_	_
-8	DC	dc	PROPN	PNM	_	6	fixed	_	_
+8	DC	dc	PROPN	PNM	_	6	flat	_	_
 9	.	.	PUNCT	PNT	_	4	punct	_	_
 
 # sent_id = 33578
@@ -45773,9 +45773,9 @@
 11	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	frota	frota	NOUN	CN	Gender=Fem|Number=Sing	9	obl	_	_
 13-14	da	_	_	_	_	_	_	_	_
-13	de_	de_	ADP	PREP	_	12	fixed	_	_
-14	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	fixed	_	_
-15	Wardair	wardair	PROPN	PNM	_	12	fixed	_	_
+13	de_	de_	ADP	PREP	_	12	flat	_	_
+14	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	flat	_	_
+15	Wardair	wardair	PROPN	PNM	_	12	flat	_	_
 16	,	,	PUNCT	PNT	_	18	punct	_	_
 17	que	que	PRON	REL	PronType=Rel	18	nsubj	_	_
 18	inclui	incluir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	amod	_	_
@@ -46981,7 +46981,7 @@
 10	pressionar	pressionar	VERB	INF	VerbForm=Inf	0	root	_	_
 11	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	10	obj	_	_
-13	Bush	bush	PROPN	PNM	_	12	fixed	_	_
+13	Bush	bush	PROPN	PNM	_	12	flat	_	_
 14	para	para	ADP	PREP	_	17	dep	_	_
 15	que	que	PRON	REL	PronType=Rel	14	conj	_	_
 16	este	este	DET	DEM	Gender=Masc|Number=Sing|PronType=Dem	17	nsubj	_	_
@@ -47374,12 +47374,12 @@
 3	,	,	PUNCT	PNT	_	1	punct	_	_
 4	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 5-6	da	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	4	fixed	_	_
-6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	_
-7	Australian	australian	PROPN	PNM	_	4	fixed	_	_
-8	Tourist	tourist	PROPN	PNM	_	4	fixed	_	_
-9	Industry	industry	PROPN	PNM	_	4	fixed	_	_
-10	Association	association	PROPN	PNM	_	4	fixed	_	_
+5	de_	de_	ADP	PREP	_	4	flat	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat	_	_
+7	Australian	australian	PROPN	PNM	_	4	flat	_	_
+8	Tourist	tourist	PROPN	PNM	_	4	flat	_	_
+9	Industry	industry	PROPN	PNM	_	4	flat	_	_
+10	Association	association	PROPN	PNM	_	4	flat	_	_
 11	,	,	PUNCT	PNT	_	1	punct	_	_
 12	diz	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	que	que	SCONJ	CJ	_	25	mark	_	_
@@ -47614,14 +47614,14 @@
 19	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	conselheiro	conselheiro	NOUN	CN	Gender=Masc|Number=Sing	12	obl	_	_
 21-22	do	_	_	_	_	_	_	_	_
-21	de_	de_	ADP	PREP	_	20	fixed	_	_
-22	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	fixed	_	_
-23	Council	council	PROPN	PNM	_	20	fixed	_	_
-24	of	of	PROPN	PNM	_	20	fixed	_	_
-25	State	state	PROPN	PNM	_	20	fixed	_	_
-26	Chambers	chambers	PROPN	PNM	_	20	fixed	_	_
-27	of	of	PROPN	PNM	_	20	fixed	_	_
-28	Commerce	commerce	PROPN	PNM	_	20	fixed	_	_
+21	de_	de_	ADP	PREP	_	20	flat	_	_
+22	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	flat	_	_
+23	Council	council	PROPN	PNM	_	20	flat	_	_
+24	of	of	PROPN	PNM	_	20	flat	_	_
+25	State	state	PROPN	PNM	_	20	flat	_	_
+26	Chambers	chambers	PROPN	PNM	_	20	flat	_	_
+27	of	of	PROPN	PNM	_	20	flat	_	_
+28	Commerce	commerce	PROPN	PNM	_	20	flat	_	_
 29	.	.	PUNCT	PNT	_	7	punct	_	_
 
 # sent_id = 33695
@@ -47691,10 +47691,10 @@
 8	em_	em_	ADP	PREP	_	10	case	_	_
 9	os	os	DET	DA	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	clientes	cliente	NOUN	CN	Gender=Masc|Number=Plur	2	obl	_	_
-11	J.P	j.p	PROPN	PNM	_	10	dep	_	_
+11	J.P	j.p	PROPN	PNM	_	10	flat	_	_
 12	Morgan	morgan	PROPN	PNM	_	11	flat	_	_
 13	e	e	CCONJ	CJ	_	14	cc	_	_
-14	Hyundai	hyundai	PROPN	PNM	_	10	conj	_	_
+14	Hyundai	hyundai	PROPN	PNM	_	10	flat	_	_
 15	.	.	PUNCT	PNT	_	1	punct	_	_
 
 # sent_id = 33698
@@ -47756,8 +47756,8 @@
 7	em_	em_	ADP	PREP	_	9	case	_	_
 8	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Segunda	segunda	ADJ	ORD	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	_
-10	Guerra	guerra	PROPN	PNM	_	9	fixed	_	_
-11	Mundial	mundial	PROPN	PNM	_	9	fixed	_	_
+10	Guerra	guerra	PROPN	PNM	_	9	flat	_	_
+11	Mundial	mundial	PROPN	PNM	_	9	flat	_	_
 12	.	.	PUNCT	PNT	_	1	punct	_	_
 
 # sent_id = 33703
@@ -47766,12 +47766,12 @@
 2	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	vice-presidente	vice-presidente	NOUN	CN	Gender=Masc|Number=Sing	0	root	_	_
 4-5	do	_	_	_	_	_	_	_	_
-4	de_	de_	ADP	PREP	_	3	fixed	_	_
-5	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	fixed	_	_
-6	Dow	dow	PROPN	PNM	_	3	fixed	_	_
-7	Jones	jones	PROPN	PNM	_	3	fixed	_	_
-8	International	international	PROPN	PNM	_	3	fixed	_	_
-9	Group	group	PROPN	PNM	_	3	fixed	_	_
+4	de_	de_	ADP	PREP	_	3	flat	_	_
+5	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	flat	_	_
+6	Dow	dow	PROPN	PNM	_	3	flat	_	_
+7	Jones	jones	PROPN	PNM	_	3	flat	_	_
+8	International	international	PROPN	PNM	_	3	flat	_	_
+9	Group	group	PROPN	PNM	_	3	flat	_	_
 10	.	.	PUNCT	PNT	_	3	punct	_	_
 
 # sent_id = 33704
@@ -48599,9 +48599,9 @@
 4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 6-7	da	_	_	_	_	_	_	_	_
-6	de_	de_	ADP	PREP	_	5	fixed	_	_
-7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	fixed	_	_
-8	Câmara	câmara	PROPN	PNM	_	5	fixed	_	_
+6	de_	de_	ADP	PREP	_	5	flat	_	_
+7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	flat	_	_
+8	Câmara	câmara	PROPN	PNM	_	5	flat	_	_
 9	negro	negro	ADJ	ADJ	Gender=Masc|Number=Sing	5	amod	_	_
 10	de	de	ADP	PREP	_	11	case	_	_
 11	Birmingham	birmingham	PROPN	PNM	_	5	obl	_	_
@@ -48667,7 +48667,7 @@
 3	derrotou	derrotar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	general	general	NOUN	CN	Gender=Masc|Number=Sing	3	obj	_	_
-6	Aoun	aoun	PROPN	PNM	_	5	fixed	_	_
+6	Aoun	aoun	PROPN	PNM	_	5	flat	_	_
 7	não	não	ADV	ADV	_	3	advmod	_	_
 8	foi	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 9	apenas	apenas	ADV	ADV	_	3	advmod	_	_
@@ -49207,7 +49207,7 @@
 # sent_id = 33794
 # text = O Solidariedade quer isso do Ocidente .
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	nsubj	_	_
-2	Solidariedade	solidariedade	PROPN	PNM	_	1	fixed	_	_
+2	Solidariedade	solidariedade	PROPN	PNM	_	1	flat	_	_
 3	quer	querer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	isso	isso	DET	DEM	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
 5-6	do	_	_	_	_	_	_	_	_
@@ -49922,7 +49922,7 @@
 # sent_id = 33846
 # text = de Vries escreve frequentemente sobre teatro .
 1	de	de	ADP	PREP	_	3	nsubj	_	_
-2	Vries	vries	PROPN	PNM	_	1	fixed	_	_
+2	Vries	vries	PROPN	PNM	_	1	flat	_	_
 3	escreve	escrever	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	frequentemente	frequentemente	ADV	ADV	_	3	advmod	_	_
 5	sobre	sobre	ADP	PREP	_	6	case	_	_
@@ -50178,10 +50178,10 @@
 1	Um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	porta-voz	porta-voz	NOUN	CN	Gender=Masc|Number=Sing	7	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-5	Applied	applied	PROPN	PNM	_	2	fixed	_	_
-6	Solar	solar	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+5	Applied	applied	PROPN	PNM	_	2	flat	_	_
+6	Solar	solar	PROPN	PNM	_	2	flat	_	_
 7	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	que	que	SCONJ	CJ	_	12	mark	_	_
 9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -50405,10 +50405,10 @@
 # text = Os nova-iorquinos John Kuhns e Robert MacDonald controlam a East Rock Partners Inc. , a única sócia da East Rock Partners L.P.
 1	Os	os	DET	DA	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	nova-iorquinos	nova-iorquino	NOUN	CN	Gender=Masc|Number=Plur	8	nsubj	_	_
-3	John	john	PROPN	PNM	_	2	dep	_	_
+3	John	john	PROPN	PNM	_	2	flat	_	_
 4	Kuhns	kuhns	PROPN	PNM	_	3	flat	_	_
 5	e	e	CCONJ	CJ	_	6	cc	_	_
-6	Robert	robert	PROPN	PNM	_	2	conj	_	_
+6	Robert	robert	PROPN	PNM	_	2	flat	_	_
 7	MacDonald	macdonald	PROPN	PNM	_	6	flat	_	_
 8	controlam	controlar	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -51017,9 +51017,9 @@
 1	Um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	porta-voz	porta-voz	NOUN	CN	Gender=Masc|Number=Sing	6	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-5	FDA	fda	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+5	FDA	fda	PROPN	PNM	_	2	flat	_	_
 6	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	CJ	_	11	mark	_	_
 8	os	os	DET	DA	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
@@ -51117,8 +51117,8 @@
 9	encheram	encher	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	amod	_	_
 10	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	igreja	igreja	NOUN	CN	Gender=Fem|Number=Sing	9	obj	_	_
-12	de	de	ADP	PREP	_	11	fixed	_	_
-13	Gethsemane	gethsemane	PROPN	PNM	_	11	fixed	_	_
+12	de	de	ADP	PREP	_	11	flat	_	_
+13	Gethsemane	gethsemane	PROPN	PNM	_	11	flat	_	_
 14	,	,	PUNCT	PNT	_	11	punct	_	_
 15	em	em	ADP	PREP	_	16	case	_	_
 16	Berlim	berlim	PROPN	PNM	_	11	obl	_	_
@@ -52576,9 +52576,9 @@
 1	Um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	porta-voz	porta-voz	NOUN	CN	Gender=Masc|Number=Sing	6	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-5	Olivetti	olivetti	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+5	Olivetti	olivetti	PROPN	PNM	_	2	flat	_	_
 6	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	CJ	_	16	mark	_	_
 8	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
@@ -52898,15 +52898,15 @@
 3	,	,	PUNCT	PNT	_	1	punct	_	_
 4	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 5-6	do	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	4	fixed	_	_
-6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	fixed	_	_
-7	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	4	fixed	_	_
-8	de	de	ADP	PREP	_	4	fixed	_	_
-9	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	4	fixed	_	_
+5	de_	de_	ADP	PREP	_	4	flat	_	_
+6	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	flat	_	_
+7	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	4	flat	_	_
+8	de	de	ADP	PREP	_	4	flat	_	_
+9	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	4	flat	_	_
 10-11	da	_	_	_	_	_	_	_	_
-10	de_	de_	ADP	PREP	_	4	fixed	_	_
-11	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	_
-12	Lloyd's	lloyd's	PROPN	PNM	_	4	fixed	_	_
+10	de_	de_	ADP	PREP	_	4	flat	_	_
+11	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat	_	_
+12	Lloyd's	lloyd's	PROPN	PNM	_	4	flat	_	_
 13	,	,	PUNCT	PNT	_	1	punct	_	_
 14	admite	admitir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 15	que	que	SCONJ	CJ	_	18	mark	_	_
@@ -53289,9 +53289,9 @@
 3	,	,	PUNCT	PNT	_	1	punct	_	_
 4	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 5-6	da	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	4	fixed	_	_
-6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	_
-7	CNBC	cnbc	PROPN	PNM	_	4	fixed	_	_
+5	de_	de_	ADP	PREP	_	4	flat	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat	_	_
+7	CNBC	cnbc	PROPN	PNM	_	4	flat	_	_
 8	,	,	PUNCT	PNT	_	1	punct	_	_
 9	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	que	que	SCONJ	CJ	_	23	mark	_	_
@@ -53316,11 +53316,11 @@
 28	gritos	grito	NOUN	CN	Gender=Masc|Number=Plur	26	obj	_	_
 29	de	de	ADP	PREP	_	28	dep	_	_
 30	"	"	PROPN	PNM	_	29	dep	_	_
-31	Mort	mort	PROPN	PNM	_	30	fixed	_	_
+31	Mort	mort	PROPN	PNM	_	30	flat	_	_
 32	!	!	PUNCT	PNT	_	30	punct	_	_
-33	Mort	mort	PROPN	PNM	_	30	fixed	_	_
+33	Mort	mort	PROPN	PNM	_	30	flat	_	_
 34	!	!	PUNCT	PNT	_	30	punct	_	_
-35	Mort	mort	PROPN	PNM	_	30	fixed	_	_
+35	Mort	mort	PROPN	PNM	_	30	flat	_	_
 36	!	!	PUNCT	PNT	_	9	punct	_	_
 37	"	"	PUNCT	PNT	_	9	punct	_	_
 
@@ -53570,7 +53570,7 @@
 5	Vie	vie	PROPN	PNM	_	2	flat	_	_
 6	e	e	CCONJ	CJ	_	7	cc	_	_
 7	Via	via	NOUN	PADR	Gender=Fem|Number=Sing	1	obj	_	_
-8	Assurances	assurances	PROPN	PNM	_	7	fixed	_	_
+8	Assurances	assurances	PROPN	PNM	_	7	flat	_	_
 9	.	.	PUNCT	PNT	_	1	punct	_	_
 
 # sent_id = 34069
@@ -53923,9 +53923,9 @@
 21	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	mercado	mercado	NOUN	CN	Gender=Masc|Number=Sing	19	obl	_	_
 23-24	do	_	_	_	_	_	_	_	_
-23	de_	de_	ADP	PREP	_	22	fixed	_	_
-24	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	fixed	_	_
-25	Tesouro	tesouro	PROPN	PNM	_	22	fixed	_	_
+23	de_	de_	ADP	PREP	_	22	flat	_	_
+24	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	flat	_	_
+25	Tesouro	tesouro	PROPN	PNM	_	22	flat	_	_
 26	.	.	PUNCT	PNT	_	12	punct	_	_
 
 # sent_id = 34089
@@ -56981,9 +56981,9 @@
 5	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	procurador-geral	procurador-geral	NOUN	CN	Gender=Masc|Number=Sing	3	obl	_	_
 7-8	do	_	_	_	_	_	_	_	_
-7	de_	de_	ADP	PREP	_	6	fixed	_	_
-8	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	fixed	_	_
-9	Connecticut	connecticut	PROPN	PNM	_	6	fixed	_	_
+7	de_	de_	ADP	PREP	_	6	flat	_	_
+8	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	flat	_	_
+9	Connecticut	connecticut	PROPN	PNM	_	6	flat	_	_
 10	encerrou	encerrar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	sete	sete	NUM	CARD	Number=Plur|NumType=Card	10	obj	_	_
 12	,	,	PUNCT	PNT	_	10	punct	_	_
@@ -57055,7 +57055,7 @@
 # text = O senador Mitchell solicitou que desistissem .
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	senador	senador	NOUN	CN	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Mitchell	mitchell	PROPN	PNM	_	2	fixed	_	_
+3	Mitchell	mitchell	PROPN	PNM	_	2	flat	_	_
 4	solicitou	solicitar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	CJ	_	6	mark	_	_
 6	desistissem	desistir	VERB	V	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
@@ -57943,9 +57943,9 @@
 1	Uma	uma	DET	UM	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	porta-voz	porta-voz	NOUN	CN	Gender=Fem|Number=Sing	6	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-5	Paramount	paramount	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+5	Paramount	paramount	PROPN	PNM	_	2	flat	_	_
 6	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	CJ	_	11	mark	_	_
 8	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -57966,10 +57966,10 @@
 6	,	,	PUNCT	PNT	_	4	punct	_	_
 7	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	4	obl	_	_
 8-9	da	_	_	_	_	_	_	_	_
-8	de_	de_	ADP	PREP	_	7	fixed	_	_
-9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	fixed	_	_
-10	MCA	mca	PROPN	PNM	_	7	fixed	_	_
-11	TV	tv	PROPN	PNM	_	7	fixed	_	_
+8	de_	de_	ADP	PREP	_	7	flat	_	_
+9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	flat	_	_
+10	MCA	mca	PROPN	PNM	_	7	flat	_	_
+11	TV	tv	PROPN	PNM	_	7	flat	_	_
 12	,	,	PUNCT	PNT	_	4	punct	_	_
 13	não	não	ADV	ADV	_	15	advmod	_	_
 14	foram	ser	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	cop	_	_
@@ -58045,16 +58045,16 @@
 4	,	,	PUNCT	PNT	_	1	punct	_	_
 5	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	1	obl	_	_
 6-7	do	_	_	_	_	_	_	_	_
-6	de_	de_	ADP	PREP	_	5	fixed	_	_
-7	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	fixed	_	_
-8	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	5	fixed	_	_
-9	de	de	ADP	PREP	_	5	fixed	_	_
-10	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	5	fixed	_	_
+6	de_	de_	ADP	PREP	_	5	flat	_	_
+7	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	flat	_	_
+8	conselho	conselho	NOUN	CN	Gender=Masc|Number=Sing	5	flat	_	_
+9	de	de	ADP	PREP	_	5	flat	_	_
+10	administração	administração	NOUN	CN	Gender=Fem|Number=Sing	5	flat	_	_
 11-12	do	_	_	_	_	_	_	_	_
-11	de_	de_	ADP	PREP	_	5	fixed	_	_
-12	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	fixed	_	_
-13	Banco	banco	PROPN	PNM	_	5	fixed	_	_
-14	Popular	popular	PROPN	PNM	_	5	fixed	_	_
+11	de_	de_	ADP	PREP	_	5	flat	_	_
+12	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	flat	_	_
+13	Banco	banco	PROPN	PNM	_	5	flat	_	_
+14	Popular	popular	PROPN	PNM	_	5	flat	_	_
 15	,	,	PUNCT	PNT	_	1	punct	_	_
 16	desempenhará	desempenhar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 17	esse	esse	DET	DEM	Gender=Masc|Number=Sing|PronType=Dem	18	det	_	_
@@ -58096,9 +58096,9 @@
 1	Uma	uma	DET	UM	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	porta-voz	porta-voz	NOUN	CN	Gender=Fem|Number=Sing	12	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-5	Millicom	millicom	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+5	Millicom	millicom	PROPN	PNM	_	2	flat	_	_
 6	,	,	PUNCT	PNT	_	2	punct	_	_
 7	uma	uma	DET	UM	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	empresa	empresa	NOUN	CN	Gender=Fem|Number=Sing	2	obl	_	_
@@ -58681,11 +58681,11 @@
 5	em_	em_	ADP	PREP	_	7	case	_	_
 6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	Bolsa	bolsa	PROPN	PNM	_	2	obl	_	_
-8	de	de	ADP	PREP	_	7	fixed	_	_
-9	Valores	valores	PROPN	PNM	_	7	fixed	_	_
-10	de	de	ADP	PREP	_	7	fixed	_	_
-11	Nova	nova	PROPN	PNM	_	7	fixed	_	_
-12	Iorque	iorque	PROPN	PNM	_	7	fixed	_	_
+8	de	de	ADP	PREP	_	7	flat	_	_
+9	Valores	valores	PROPN	PNM	_	7	flat	_	_
+10	de	de	ADP	PREP	_	7	flat	_	_
+11	Nova	nova	PROPN	PNM	_	7	flat	_	_
+12	Iorque	iorque	PROPN	PNM	_	7	flat	_	_
 13	ultrapassaram	ultrapassar	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	descendentes	descendente	ADJ	ADJ	Gender=Fem|Number=Plur	13	obj	_	_
@@ -58765,13 +58765,13 @@
 9	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	Universidade	universidade	PROPN	PNM	_	6	obl	_	_
 11-12	da	_	_	_	_	_	_	_	_
-11	de_	de_	ADP	PREP	_	10	fixed	_	_
-12	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	fixed	_	_
-13	Califórnia	califórnia	PROPN	PNM	_	10	fixed	_	_
+11	de_	de_	ADP	PREP	_	10	flat	_	_
+12	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	flat	_	_
+13	Califórnia	califórnia	PROPN	PNM	_	10	flat	_	_
 14-15	do	_	_	_	_	_	_	_	_
-14	de_	de_	ADP	PREP	_	10	fixed	_	_
-15	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	_
-16	Sul	sul	PROPN	PNM	_	10	fixed	_	_
+14	de_	de_	ADP	PREP	_	10	flat	_	_
+15	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	flat	_	_
+16	Sul	sul	PROPN	PNM	_	10	flat	_	_
 17	.	.	PUNCT	PNT	_	2	punct	_	_
 
 # sent_id = 34398
@@ -59183,7 +59183,7 @@
 10	,	,	PUNCT	PNT	_	2	punct	_	_
 11	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	índice	índice	NOUN	CN	Gender=Masc|Number=Sing	14	nsubj	_	_
-13	Nikkei	nikkei	PROPN	PNM	_	12	fixed	_	_
+13	Nikkei	nikkei	PROPN	PNM	_	12	flat	_	_
 14	aumentou	aumentar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	de	de	ADP	PREP	_	17	case	_	_
 16	170,65	170,65	NUM	DGT	NumType=Card	17	nummod	_	_
@@ -59292,9 +59292,9 @@
 1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	6	nsubj	_	_
 3-4	da	_	_	_	_	_	_	_	_
-3	de_	de_	ADP	PREP	_	2	fixed	_	_
-4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	fixed	_	_
-5	Câmara	câmara	PROPN	PNM	_	2	fixed	_	_
+3	de_	de_	ADP	PREP	_	2	flat	_	_
+4	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	flat	_	_
+5	Câmara	câmara	PROPN	PNM	_	2	flat	_	_
 6	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	que	que	SCONJ	CJ	_	14	mark	_	_
 8	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -59347,7 +59347,7 @@
 22	acompanhar	acompanhar	VERB	INF	VerbForm=Inf	20	dep	_	_
 23	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	presidente	presidente	NOUN	CN	Gender=Masc|Number=Sing	22	obj	_	_
-25	Bush	bush	PROPN	PNM	_	24	fixed	_	_
+25	Bush	bush	PROPN	PNM	_	24	flat	_	_
 26-27	numa	_	_	_	_	_	_	_	_
 26	em_	em_	ADP	PREP	_	28	case	_	_
 27	uma	uma	DET	UM	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
@@ -60754,7 +60754,7 @@
 10	,	,	PUNCT	PNT	_	2	punct	_	_
 11	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	índice	índice	NOUN	CN	Gender=Masc|Number=Sing	14	nsubj	_	_
-13	Nikkei	nikkei	PROPN	PNM	_	12	fixed	_	_
+13	Nikkei	nikkei	PROPN	PNM	_	12	flat	_	_
 14	aumentou	aumentar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	de	de	ADP	PREP	_	17	case	_	_
 16	135,09	135,09	NUM	DGT	NumType=Card	17	nummod	_	_
@@ -61535,10 +61535,10 @@
 3	anteriormente	anteriormente	ADV	ADV	_	4	advmod	_	_
 4	vice-presidente	vice-presidente	NOUN	CN	Gender=Masc|Number=Sing	1	dep	_	_
 5-6	da	_	_	_	_	_	_	_	_
-5	de_	de_	ADP	PREP	_	4	fixed	_	_
-6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	_
-7	Eastern	eastern	PROPN	PNM	_	4	fixed	_	_
-8	Edison	edison	PROPN	PNM	_	4	fixed	_	_
+5	de_	de_	ADP	PREP	_	4	flat	_	_
+6	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	flat	_	_
+7	Eastern	eastern	PROPN	PNM	_	4	flat	_	_
+8	Edison	edison	PROPN	PNM	_	4	flat	_	_
 9	.	.	PUNCT	PNT	_	1	punct	_	_
 
 # sent_id = 34559
