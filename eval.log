@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Portuguese-CINTIL:
-commit 2f3c39e8429b62c4a4da09435b4490f08bbfb3bf
+commit 9e083cbd650dc2f27fb4b7553105cf1385d23046
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:52:17 2023 +0100
+Date:   Sun May 5 13:16:31 2024 +0200
 Size: counted 475860 of 475860 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.3302473866466.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,10 +25,45 @@ Udapi: found 663 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 475860 words.
 Genres: found 4 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang pt --max-err=10 UD_Portuguese-CINTIL/pt_cintil-ud-dev.conllu
+[Line 11089 Sent 31455 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:sua:det --> 4:própria:amod)
+[Line 38467 Sent 33161 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:seu:det --> 10:próprio:amod)
+[Line 38652 Sent 33173 Node 12]: [L3 Warning leaf-det] 'det' not expected to have children (12:cada:det --> 13:uma:dep)
+[Line 41318 Sent 33329 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:seu:det --> 6:próprio:amod)
+[Line 43862 Sent 33476 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:seus:det --> 8:próprios:amod)
+[Line 49815 Sent 33837 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:suas:det --> 6:próprias:amod)
+[Line 57259 Sent 34306 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:nosso:det --> 5:próprio:amod)
+[Line 57656 Sent 34334 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:sua:det --> 11:própria:amod)
+[Line 59921 Sent 34462 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:seu:det --> 5:próprio:amod)
+[Line 59971 Sent 34465 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:seus:det --> 5:próprios:amod)
+Warnings: 10
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang pt --max-err=10 UD_Portuguese-CINTIL/pt_cintil-ud-test.conllu
+[Line 3510 Sent 34761 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:seu:det --> 7:próprio:amod)
+[Line 3520 Sent 34761 Node 15]: [L3 Warning leaf-det] 'det' not expected to have children (15:seu:det --> 16:próprio:amod)
+[Line 10829 Sent 35192 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:seus:det --> 8:próprios:amod)
+[Line 12016 Sent 35265 Node 8]: [L3 Warning leaf-det] 'det' not expected to have children (8:meus:det --> 9:próprios:amod)
+[Line 13331 Sent 35346 Node 15]: [L3 Warning leaf-det] 'det' not expected to have children (15:sua:det --> 16:própria:amod)
+[Line 18208 Sent 35652 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:pouco:det --> 4:muito:dep)
+[Line 18377 Sent 35665 Node 14]: [L3 Warning leaf-det] 'det' not expected to have children (14:sua:det --> 15:própria:amod)
+[Line 18502 Sent 35672 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:seu:det --> 8:próprio:amod)
+[Line 19552 Sent 35726 Node 35]: [L3 Warning leaf-det] 'det' not expected to have children (35:poucos:det --> 34:muito:dep)
+[Line 21241 Sent 35804 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:pouco:det --> 4:tão:dep)
+...suppressing further errors regarding Warning
+Warnings: 20
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang pt --max-err=10 UD_Portuguese-CINTIL/pt_cintil-ud-train.conllu
+[Line 4163 Sent 400 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
+[Line 4180 Sent 402 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
+[Line 4245 Sent 410 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
+[Line 4262 Sent 412 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
+[Line 18961 Sent 1486 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:seu:det --> 11:próprio:amod)
+[Line 27816 Sent 2148 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:nosso:det --> 8:próprio:amod)
+[Line 32543 Sent 2529 Node 8]: [L3 Warning leaf-det] 'det' not expected to have children (8:cada:det --> 9:um:dep)
+[Line 44111 Sent 3304 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:nosso:det --> 7:próprio:amod)
+[Line 71186 Sent 5106 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:nossa:det --> 4:própria:amod)
+[Line 78781 Sent 5601 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:cada:det --> 3:um:dep)
+...suppressing further errors regarding Warning
+Warnings: 53
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
