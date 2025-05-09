@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Portuguese-CINTIL:
-commit 9e083cbd650dc2f27fb4b7553105cf1385d23046
+commit 3eab0e05d83c4f7ff489a19cbecd3adecc86ce38
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 13:16:31 2024 +0200
+Date:   Mon Nov 11 16:25:38 2024 +0100
 Size: counted 475860 of 475860 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.3302473866466.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,60 +20,100 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 23 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL        663
-Udapi: found 663 bugs.
+               TOTAL        445
+Udapi: found 445 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 475860 words.
-Genres: found 4 out of 17 known.
+Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang pt --max-err=10 UD_Portuguese-CINTIL/pt_cintil-ud-dev.conllu
-[Line 11089 Sent 31455 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:sua:det --> 4:própria:amod)
-[Line 38467 Sent 33161 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:seu:det --> 10:próprio:amod)
-[Line 38652 Sent 33173 Node 12]: [L3 Warning leaf-det] 'det' not expected to have children (12:cada:det --> 13:uma:dep)
-[Line 41318 Sent 33329 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:seu:det --> 6:próprio:amod)
-[Line 43862 Sent 33476 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:seus:det --> 8:próprios:amod)
-[Line 49815 Sent 33837 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:suas:det --> 6:próprias:amod)
-[Line 57259 Sent 34306 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:nosso:det --> 5:próprio:amod)
-[Line 57656 Sent 34334 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:sua:det --> 11:própria:amod)
-[Line 59921 Sent 34462 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:seu:det --> 5:próprio:amod)
-[Line 59971 Sent 34465 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:seus:det --> 5:próprios:amod)
-Warnings: 10
-*** PASSED ***
+[Line 71 Sent 30726 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Por causa de_' does not have the 'ExtPos' feature
+[Line 113 Sent 30730 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Em suma' does not have the 'ExtPos' feature
+[Line 113 Sent 30730 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Em'
+[Line 179 Sent 30734 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression 'por cento' does not have the 'ExtPos' feature
+[Line 319 Sent 30742 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'aeroporto de' does not have the 'ExtPos' feature
+[Line 391 Sent 30747 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'sine die' does not have the 'ExtPos' feature
+[Line 419 Sent 30749 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Para que' does not have the 'ExtPos' feature
+[Line 504 Sent 30753 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'por cento' does not have the 'ExtPos' feature
+[Line 766 Sent 30770 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression '14 mil' does not have the 'ExtPos' feature
+[Line 788 Sent 30772 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'de facto' does not have the 'ExtPos' feature
+[Line 788 Sent 30772 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
+[Line 1230 Sent 30805 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'rumo a_' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 2840 Sent 30915 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
+[Line 3537 Sent 30961 Node 13]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
+[Line 4419 Sent 31018 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
+[Line 7072 Sent 31191 Node 10]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
+[Line 7709 Sent 31230 Node 12]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
+[Line 7718 Sent 31231 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'De'
+[Line 7750 Sent 31232 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'em'
+[Line 8943 Sent 31310 Node 4]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
+...suppressing further errors regarding Syntax
+Syntax errors: 50
+Warnings: 264
+*** FAILED *** with 50 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang pt --max-err=10 UD_Portuguese-CINTIL/pt_cintil-ud-test.conllu
-[Line 3510 Sent 34761 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:seu:det --> 7:próprio:amod)
-[Line 3520 Sent 34761 Node 15]: [L3 Warning leaf-det] 'det' not expected to have children (15:seu:det --> 16:próprio:amod)
-[Line 10829 Sent 35192 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:seus:det --> 8:próprios:amod)
-[Line 12016 Sent 35265 Node 8]: [L3 Warning leaf-det] 'det' not expected to have children (8:meus:det --> 9:próprios:amod)
-[Line 13331 Sent 35346 Node 15]: [L3 Warning leaf-det] 'det' not expected to have children (15:sua:det --> 16:própria:amod)
-[Line 18208 Sent 35652 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:pouco:det --> 4:muito:dep)
-[Line 18377 Sent 35665 Node 14]: [L3 Warning leaf-det] 'det' not expected to have children (14:sua:det --> 15:própria:amod)
-[Line 18502 Sent 35672 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:seu:det --> 8:próprio:amod)
-[Line 19552 Sent 35726 Node 35]: [L3 Warning leaf-det] 'det' not expected to have children (35:poucos:det --> 34:muito:dep)
-[Line 21241 Sent 35804 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:pouco:det --> 4:tão:dep)
+[Line 76 Sent 34565 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'através de' does not have the 'ExtPos' feature
+[Line 265 Sent 34575 Node 17]: [L3 Warning fixed-without-extpos] Fixed expression 'depois de' does not have the 'ExtPos' feature
+[Line 971 Sent 34615 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Relativamente a_' does not have the 'ExtPos' feature
+[Line 1861 Sent 34666 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'através de_' does not have the 'ExtPos' feature
+[Line 1977 Sent 34672 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Em vez de_' does not have the 'ExtPos' feature
+[Line 2153 Sent 34683 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'apesar de' does not have the 'ExtPos' feature
+[Line 2963 Sent 34731 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression '0,2 %' does not have the 'ExtPos' feature
+[Line 3163 Sent 34741 Node 18]: [L3 Warning fixed-without-extpos] Fixed expression '3,3 %' does not have the 'ExtPos' feature
+[Line 3279 Sent 34747 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'depois de' does not have the 'ExtPos' feature
+[Line 3510 Sent 34761 Node 6]: [L3 Syntax leaf-det] 'det' not expected to have children (6:seu:det --> 7:próprio:amod)
+[Line 3520 Sent 34761 Node 15]: [L3 Syntax leaf-det] 'det' not expected to have children (15:seu:det --> 16:próprio:amod)
+[Line 3667 Sent 34772 Node 18]: [L3 Warning fixed-without-extpos] Fixed expression '9,51 %' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 20
-*** PASSED ***
+[Line 4651 Sent 34830 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
+[Line 4765 Sent 34836 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'de'
+[Line 6185 Sent 34914 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'De'
+[Line 6439 Sent 34927 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'em'
+[Line 6832 Sent 34951 Node 6]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'a'
+[Line 7614 Sent 34996 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'De'
+[Line 9844 Sent 35136 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Em'
+[Line 9905 Sent 35139 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Por'
+...suppressing further errors regarding Syntax
+Syntax errors: 135
+Warnings: 1084
+*** FAILED *** with 135 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang pt --max-err=10 UD_Portuguese-CINTIL/pt_cintil-ud-train.conllu
-[Line 4163 Sent 400 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
-[Line 4180 Sent 402 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
-[Line 4245 Sent 410 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
-[Line 4262 Sent 412 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
-[Line 18961 Sent 1486 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:seu:det --> 11:próprio:amod)
-[Line 27816 Sent 2148 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:nosso:det --> 8:próprio:amod)
-[Line 32543 Sent 2529 Node 8]: [L3 Warning leaf-det] 'det' not expected to have children (8:cada:det --> 9:um:dep)
-[Line 44111 Sent 3304 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:nosso:det --> 7:próprio:amod)
-[Line 71186 Sent 5106 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:nossa:det --> 4:própria:amod)
-[Line 78781 Sent 5601 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:cada:det --> 3:um:dep)
+[Line 1446 Sent 154 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'vinte e dois' does not have the 'ExtPos' feature
+[Line 1462 Sent 156 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'duzentos e dois' does not have the 'ExtPos' feature
+[Line 1471 Sent 157 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'duzentos e vinte' does not have the 'ExtPos' feature
+[Line 1480 Sent 158 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'duzentos e vinte e dois' does not have the 'ExtPos' feature
+[Line 1498 Sent 160 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e dois' does not have the 'ExtPos' feature
+[Line 1507 Sent 161 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e vinte' does not have the 'ExtPos' feature
+[Line 1516 Sent 162 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e duzentos' does not have the 'ExtPos' feature
+[Line 1525 Sent 163 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e duzentos e dois' does not have the 'ExtPos' feature
+[Line 1536 Sent 164 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e duzentos e vinte' does not have the 'ExtPos' feature
+[Line 1547 Sent 165 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e duzentos e vinte e dois' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 53
-*** PASSED ***
-Validity: 1
+[Line 4163 Sent 400 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
+[Line 4180 Sent 402 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
+[Line 4245 Sent 410 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
+[Line 4262 Sent 412 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
+[Line 9359 Sent 849 Node 17]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'por'
+[Line 9780 Sent 880 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'A_'
+[Line 10441 Sent 921 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Por'
+[Line 10625 Sent 931 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'Em_'
+[Line 11084 Sent 960 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'em'
+[Line 11310 Sent 975 Node 4]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' word 'por_'
+...suppressing further errors regarding Syntax
+Syntax errors: 448
+Warnings: 2241
+*** FAILED *** with 448 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.235294117647059) = 0.0180995475113122
+(weight=0.0769230769230769) * (score{genres}=0.222222222222222) = 0.0170940170940171
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.892493066753766) = 0.228844376090709
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
-(weight=0.307692307692308) * (score{udapi}=0.986067330727525) = 0.303405332531546
+(weight=0.307692307692308) * (score{udapi}=0.990648510065986) = 0.304814926174149
 (weight=0.0769230769230769) * (score{udeprels}=0.497297297297297) = 0.0382536382536383
-(TOTAL score=0.817260511280117) * (availability=1) * (validity=1) = 0.817260511280117
-STARS = 4
-UD_Portuguese-CINTIL	0.817260511280117	4
+(TOTAL score=0.817664574505425) * (availability=1) * (validity=0.01) = 0.00817664574505425
+STARS = 0
+UD_Portuguese-CINTIL	0.00817664574505425	0
