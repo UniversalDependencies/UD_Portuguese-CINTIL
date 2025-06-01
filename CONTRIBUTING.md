@@ -1,6 +1,8 @@
 # Contributing
 
-Do not submit pull requests; create issues. Main development happens somewhere else. If there is a bug, either the original data or the conversion procedure must be fixed.
+Please do not make pull requests against master, any such pull requests will be
+closed. Pull requests against the dev branch are accepted in some treebanks but
+not in others – check the Contributing line in the README file!
 
 For full details on the branch policy see
-[here](http://universaldependencies.org/release_checklist.html#repository-branches).
+[here](https://universaldependencies.org/contributing/repository_files.html).
