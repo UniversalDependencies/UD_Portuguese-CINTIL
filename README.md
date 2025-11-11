@@ -55,6 +55,7 @@ Other relevant references are:
 Data available since: UD v2.11
 License: CC BY-NC-ND 4.0
 Includes text: yes
+Parallel: no
 Genre: news fiction nonfiction grammar-examples
 Lemmas: converted from manual
 UPOS: converted from manual
