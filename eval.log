@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Portuguese-CINTIL:
-commit b30de61a371fcb8b6e007770c9ec1944ede8ef2d
-Merge: 7431b55 49d3fcb
+commit 52c41a23bf5fab602552e41a4d9e818aa0c095df
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:31:32 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'pt_cintil'
 Language code (from CoNLL-U file name) = 'pt'
@@ -25,85 +25,91 @@ Universal relations: 23 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang pt --max-err=10 UD_Portuguese-CINTIL/pt_cintil-ud-dev.conllu
-[Line 14 Sent 30721]: [L3 Warning obl-should-be-nmod] The parent (node [10] 'pintor') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 52 Sent 30725]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'crise') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 64 Sent 30725]: [L3 Warning obl-should-be-nmod] The parent (node [13] 'segmento') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 66 Sent 30725]: [L3 Warning obl-should-be-nmod] The parent (node [16] 'habitação') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 71 Sent 30726]: [L3 Warning fixed-without-extpos] Fixed expression 'Por causa de_' does not have the 'ExtPos' feature
-[Line 90 Sent 30727]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'protecção') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 109 Sent 30729]: [L3 Warning obl-should-be-nmod] The parent (node [3] 'trabalhadores') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 113 Sent 30730]: [L3 Warning fixed-without-extpos] Fixed expression 'Em suma' does not have the 'ExtPos' feature
-[Line 113 Sent 30730]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('Em')
-[Line 119 Sent 30730]: [L3 Warning obl-should-be-nmod] The parent (node [5] 'falta') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 135 Sent 30731]: [L3 Warning obl-should-be-nmod] The parent (node [7] 'base') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-[Line 788 Sent 30772]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 1971 Sent 30853]: [L3 Syntax too-many-objects] Multiple direct objects [8, 10, 13] ('os', 'três', 'contos') under the predicate 'ronda'.
-[Line 2582 Sent 30899]: [L3 Syntax too-many-objects] Multiple direct objects [11, 14] ('contos', 'aliança') under the predicate 'roubou'.
-[Line 2840 Sent 30915]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 2978 Sent 30926]: [L3 Syntax too-many-objects] Multiple direct objects [8, 10] ('ciência', 'cultura') under the predicate 'distinguia'.
-[Line 3537 Sent 30961]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 4419 Sent 31018]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 4515 Sent 31024]: [L3 Syntax too-many-objects] Multiple direct objects [5, 7] ('funções', 'cargos') under the predicate 'desempenhou'.
-[Line 7072 Sent 31191]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-...suppressing further errors regarding Syntax
-Syntax errors: 94
-Warnings: 3157
-*** FAILED *** with 94 errors
+[Line 14 Sent 30721]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'pintor') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 52 Sent 30725]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'crise') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 64 Sent 30725]: [L3 SYNTAX obl-should-be-nmod] The parent (node [13] 'segmento') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 66 Sent 30725]: [L3 SYNTAX obl-should-be-nmod] The parent (node [16] 'habitação') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 71 Sent 30726]: [L3 WARNING fixed-without-extpos] Fixed expression 'Por causa de_' does not have the 'ExtPos' feature
+[Line 90 Sent 30727]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'protecção') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 109 Sent 30729]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'trabalhadores') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 113 Sent 30730]: [L3 WARNING fixed-without-extpos] Fixed expression 'Em suma' does not have the 'ExtPos' feature
+[Line 113 Sent 30730]: [L3 SYNTAX rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('Em')
+[Line 119 Sent 30730]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'falta') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 135 Sent 30731]: [L3 SYNTAX obl-should-be-nmod] The parent (node [7] 'base') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 139 Sent 30731]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'argumento') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 179 Sent 30734]: [L3 WARNING fixed-without-extpos] Fixed expression 'por cento' does not have the 'ExtPos' feature
+[Line 319 Sent 30742]: [L3 WARNING fixed-without-extpos] Fixed expression 'aeroporto de' does not have the 'ExtPos' feature
+[Line 391 Sent 30747]: [L3 WARNING fixed-without-extpos] Fixed expression 'sine die' does not have the 'ExtPos' feature
+[Line 419 Sent 30749]: [L3 WARNING fixed-without-extpos] Fixed expression 'Para que' does not have the 'ExtPos' feature
+[Line 504 Sent 30753]: [L3 WARNING fixed-without-extpos] Fixed expression 'por cento' does not have the 'ExtPos' feature
+[Line 766 Sent 30770]: [L3 WARNING fixed-without-extpos] Fixed expression '14 mil' does not have the 'ExtPos' feature
+[Line 788 Sent 30772]: [L3 WARNING fixed-without-extpos] Fixed expression 'de facto' does not have the 'ExtPos' feature
+[Line 1230 Sent 30805]: [L3 WARNING fixed-without-extpos] Fixed expression 'rumo a_' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 264
+SYNTAX errors: 2983
+*** FAILED *** with 2983 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang pt --max-err=10 UD_Portuguese-CINTIL/pt_cintil-ud-test.conllu
-[Line 27 Sent 34562]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'preço') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 46 Sent 34563]: [L3 Warning obl-should-be-nmod] The parent (node [12] 'produtos') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 47 Sent 34563]: [L3 Warning obl-should-be-nmod] The parent (node [15] 'marca') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 58 Sent 34564]: [L3 Warning obl-should-be-nmod] The parent (node [6] 'campo') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 75 Sent 34565]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'importação') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 76 Sent 34565]: [L3 Warning fixed-without-extpos] Fixed expression 'através de' does not have the 'ExtPos' feature
-[Line 78 Sent 34565]: [L3 Warning obl-should-be-nmod] The parent (node [4] 'importação') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 80 Sent 34565]: [L3 Warning obl-should-be-nmod] The parent (node [9] 'admissão') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 90 Sent 34566]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Autoridades') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 94 Sent 34566]: [L3 Warning obl-should-be-nmod] The parent (node [1] 'Autoridades') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further errors regarding Warning
-[Line 1946 Sent 34670]: [L3 Syntax too-many-objects] Multiple direct objects [2, 4] ('navios', 'bancos') under the predicate 'Gerem'.
-[Line 3339 Sent 34750]: [L3 Syntax too-many-objects] Multiple direct objects [6, 8] ('amigos', 'inimigos') under the predicate 'fazer'.
-[Line 3510 Sent 34761]: [L3 Syntax leaf-det] 'det' not expected to have children (6:seu:det --> 7:próprio:amod)
-[Line 3520 Sent 34761]: [L3 Syntax leaf-det] 'det' not expected to have children (15:seu:det --> 16:próprio:amod)
-[Line 3527 Sent 34762]: [L3 Syntax too-many-objects] Multiple direct objects [3, 6, 9] ('mulher', 'filhos', 'casa') under the predicate 'Tem'.
-[Line 4651 Sent 34830]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 4765 Sent 34836]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('de')
-[Line 6185 Sent 34914]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('De')
-[Line 6439 Sent 34927]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('em')
-[Line 6832 Sent 34951]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('a')
-...suppressing further errors regarding Syntax
-Syntax errors: 204
-Warnings: 6694
-*** FAILED *** with 204 errors
+[Line 27 Sent 34562]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'preço') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 46 Sent 34563]: [L3 SYNTAX obl-should-be-nmod] The parent (node [12] 'produtos') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 47 Sent 34563]: [L3 SYNTAX obl-should-be-nmod] The parent (node [15] 'marca') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 58 Sent 34564]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'campo') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 75 Sent 34565]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'importação') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 76 Sent 34565]: [L3 WARNING fixed-without-extpos] Fixed expression 'através de' does not have the 'ExtPos' feature
+[Line 78 Sent 34565]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'importação') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 80 Sent 34565]: [L3 SYNTAX obl-should-be-nmod] The parent (node [9] 'admissão') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 90 Sent 34566]: [L3 SYNTAX obl-should-be-nmod] The parent (node [1] 'Autoridades') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 94 Sent 34566]: [L3 SYNTAX obl-should-be-nmod] The parent (node [1] 'Autoridades') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 113 Sent 34566]: [L3 SYNTAX obl-should-be-nmod] The parent (node [20] 'acção') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 265 Sent 34575]: [L3 WARNING fixed-without-extpos] Fixed expression 'depois de' does not have the 'ExtPos' feature
+[Line 971 Sent 34615]: [L3 WARNING fixed-without-extpos] Fixed expression 'Relativamente a_' does not have the 'ExtPos' feature
+[Line 1861 Sent 34666]: [L3 WARNING fixed-without-extpos] Fixed expression 'através de_' does not have the 'ExtPos' feature
+[Line 1977 Sent 34672]: [L3 WARNING fixed-without-extpos] Fixed expression 'Em vez de_' does not have the 'ExtPos' feature
+[Line 2153 Sent 34683]: [L3 WARNING fixed-without-extpos] Fixed expression 'apesar de' does not have the 'ExtPos' feature
+[Line 2963 Sent 34731]: [L3 WARNING fixed-without-extpos] Fixed expression '0,2 %' does not have the 'ExtPos' feature
+[Line 3163 Sent 34741]: [L3 WARNING fixed-without-extpos] Fixed expression '3,3 %' does not have the 'ExtPos' feature
+[Line 3279 Sent 34747]: [L3 WARNING fixed-without-extpos] Fixed expression 'depois de' does not have the 'ExtPos' feature
+[Line 3667 Sent 34772]: [L3 WARNING fixed-without-extpos] Fixed expression '9,51 %' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 21122 Sent 35797]: [L3 WARNING verbform-fin-without-mood] Finite verb 'Imaginem' lacks the 'Mood' feature
+[Line 22252 Sent 35844]: [L3 WARNING verbform-fin-without-mood] Finite verb 'Acordem' lacks the 'Mood' feature
+[Line 27846 Sent 36066]: [L3 WARNING verbform-fin-without-mood] Finite verb 'Olhe' lacks the 'Mood' feature
+[Line 30276 Sent 36175]: [L3 WARNING verbform-fin-without-mood] Finite verb 'Levante' lacks the 'Mood' feature
+[Line 50916 Sent 36816]: [L3 WARNING verbform-fin-without-mood] Finite verb 'recorde' lacks the 'Mood' feature
+Warnings: 1089
+SYNTAX errors: 5786
+*** FAILED *** with 5786 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang pt --max-err=10 UD_Portuguese-CINTIL/pt_cintil-ud-train.conllu
-[Line 858 Sent 81]: [L3 Warning obl-should-be-nmod] The parent (node [2] 'inauguração') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1418 Sent 150]: [L3 Warning obl-should-be-nmod] The parent (node [3] 'meus') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1446 Sent 154]: [L3 Warning fixed-without-extpos] Fixed expression 'vinte e dois' does not have the 'ExtPos' feature
-[Line 1462 Sent 156]: [L3 Warning fixed-without-extpos] Fixed expression 'duzentos e dois' does not have the 'ExtPos' feature
-[Line 1471 Sent 157]: [L3 Warning fixed-without-extpos] Fixed expression 'duzentos e vinte' does not have the 'ExtPos' feature
-[Line 1480 Sent 158]: [L3 Warning fixed-without-extpos] Fixed expression 'duzentos e vinte e dois' does not have the 'ExtPos' feature
-[Line 1498 Sent 160]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e dois' does not have the 'ExtPos' feature
-[Line 1507 Sent 161]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e vinte' does not have the 'ExtPos' feature
-[Line 1516 Sent 162]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e duzentos' does not have the 'ExtPos' feature
-[Line 1525 Sent 163]: [L3 Warning fixed-without-extpos] Fixed expression 'mil e duzentos e dois' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-[Line 4163 Sent 400]: [L3 Syntax leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
-[Line 4180 Sent 402]: [L3 Syntax leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
-[Line 4245 Sent 410]: [L3 Syntax leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
-[Line 4262 Sent 412]: [L3 Syntax leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
-[Line 8579 Sent 800]: [L3 Syntax too-many-objects] Multiple direct objects [10, 13] ('roupa', 'objectos') under the predicate 'arrumar'.
-[Line 8659 Sent 803]: [L3 Syntax too-many-objects] Multiple direct objects [5, 14] ('concerto', 'eventos') under the predicate 'ver'.
-[Line 9359 Sent 849]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('por')
-[Line 9780 Sent 880]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('A_')
-[Line 10441 Sent 921]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'ADP' ('Por')
-[Line 10583 Sent 929]: [L3 Syntax too-many-objects] Multiple direct objects [11, 15] ('reforma', 'fim') under the predicate 'significar'.
-...suppressing further errors regarding Syntax
-Syntax errors: 760
-Warnings: 19174
-*** FAILED *** with 760 errors
+[Line 858 Sent 81]: [L3 SYNTAX obl-should-be-nmod] The parent (node [2] 'inauguração') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1418 Sent 150]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'meus') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1446 Sent 154]: [L3 WARNING fixed-without-extpos] Fixed expression 'vinte e dois' does not have the 'ExtPos' feature
+[Line 1462 Sent 156]: [L3 WARNING fixed-without-extpos] Fixed expression 'duzentos e dois' does not have the 'ExtPos' feature
+[Line 1471 Sent 157]: [L3 WARNING fixed-without-extpos] Fixed expression 'duzentos e vinte' does not have the 'ExtPos' feature
+[Line 1480 Sent 158]: [L3 WARNING fixed-without-extpos] Fixed expression 'duzentos e vinte e dois' does not have the 'ExtPos' feature
+[Line 1498 Sent 160]: [L3 WARNING fixed-without-extpos] Fixed expression 'mil e dois' does not have the 'ExtPos' feature
+[Line 1507 Sent 161]: [L3 WARNING fixed-without-extpos] Fixed expression 'mil e vinte' does not have the 'ExtPos' feature
+[Line 1516 Sent 162]: [L3 WARNING fixed-without-extpos] Fixed expression 'mil e duzentos' does not have the 'ExtPos' feature
+[Line 1525 Sent 163]: [L3 WARNING fixed-without-extpos] Fixed expression 'mil e duzentos e dois' does not have the 'ExtPos' feature
+[Line 1536 Sent 164]: [L3 WARNING fixed-without-extpos] Fixed expression 'mil e duzentos e vinte' does not have the 'ExtPos' feature
+[Line 1547 Sent 165]: [L3 WARNING fixed-without-extpos] Fixed expression 'mil e duzentos e vinte e dois' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 4163 Sent 400]: [L3 SYNTAX leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
+[Line 4180 Sent 402]: [L3 SYNTAX leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
+[Line 4245 Sent 410]: [L3 SYNTAX leaf-det] 'det' not expected to have children (2:uns:det --> 3:quatro:dep)
+[Line 4262 Sent 412]: [L3 SYNTAX leaf-det] 'det' not expected to have children (2:alguns:det --> 3:quatro:dep)
+[Line 5447 Sent 557]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'som') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5625 Sent 573]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'importância') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5738 Sent 584]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'preço') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5753 Sent 585]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'alteração') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 19328 Sent 1510]: [L3 WARNING verbform-fin-without-mood] Finite verb 'Vêem' lacks the 'Mood' feature
+Warnings: 2242
+SYNTAX errors: 17669
+*** FAILED *** with 17669 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
